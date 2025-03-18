@@ -1,0 +1,83 @@
+:root {
+  --bgGray: #818589;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  padding: 10px 40px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-logo {
+  display: flex;
+  gap: 0;
+  flex-direction: column;
+  justify-content: center;
+  color: black;
+}
+.navbar-logo h1 {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.navbar-menu {
+  font-size: 36px;
+  font-weight: 300;
+  color: black;
+}
+
+.content {
+  background-color: var(--bgGray);
+  display: flex;
+  flex-direction: column;
+  padding: 100px 40px;
+}
+.content .btn_back {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.content .btn_back img {
+  fill: white;
+  height: 40px;
+  width: 40px;
+}
+.content .btn_back a {
+  display: flex;
+  text-decoration: none;
+  color: white;
+  font-size: 24px;
+  justify-content: end;
+  cursor: pointer;
+}
+.content-article {
+  display: flex;
+  gap: 20px;
+  margin-top: 50px;
+}
+.content-article .title {
+  width: 100%;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.content .content-article img {
+  width: 80%;
+  height: 500px;
+}
+
+.content .content-article p {
+  font-size: 20px;
+  color: white;
+}
