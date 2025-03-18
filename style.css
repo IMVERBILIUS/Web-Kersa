@@ -1,0 +1,235 @@
+
+body{
+  background-color: #818589;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.navbar1 {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  padding: 10px 40px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-logo {
+  display: flex;
+  gap: 0;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+.navbar-logo h1 {
+  font-size: 36px;
+  font-weight: 300;
+}
+.navbar-logo p{
+  font-size: ;
+}
+.navbar-menu {
+  font-size: 36px;
+  font-weight: 300;
+  color: white;
+}
+.home-page {
+  height: 100vh;
+  width: 100%;
+  background-image: url(image/hero-image.jpg);
+
+  background-size: cover;
+}
+.gradient-home {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--bgGray) 100%);
+}
+
+.home-page-text {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.home-page-address {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 30px;
+  color: white;
+  border-top: 2px solid white;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.home-page-address-text {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  text-align: center;
+}
+
+.home-page-address-text p {
+  font-size: 20px;
+}
+
+.article {
+  width: 100%;
+  padding:  40px;
+  background-color: var(--bgGray);
+}
+.article-title {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.article-content {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 kolom */
+  grid-template-rows: auto auto; /* 2 baris */
+  gap: 20px;
+}
+
+.article-content-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.article-content-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Deskripsi */
+.article-description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.article-content-item:hover .article-description {
+  opacity: 1;
+}
+
+.article-description h3 {
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.article-description p {
+  text-align: center;
+  font-size: 14px;
+  padding: 0 15px;
+}
+
+.article-content-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.article-description {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.article-content-item:hover .article-description {
+  opacity: 1;
+}
+
+.article-description h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.article-description p {
+  font-size: 16px;
+  text-align: center;
+  padding: 0 10px;
+}
+
+.card {
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  border: none;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  border-radius: 15px;
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.article-description {
+  position: absolute;
+  top: 0;  /* Sesuaikan posisi deskripsi */
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7); /* Transparansi untuk tampilan elegan */
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;  /* Deskripsi tersembunyi */
+  transition: opacity 0.3s ease;
+}
+
+.card:hover .article-description {
+  opacity: 1; /* Munculkan deskripsi saat hover */
+}
+
+.card:hover img {
+  transform: scale(1.2); /* Efek zoom saat hover */
+}
+.card img {
+  transition: transform 0.5s ease; /* Efek lebih lembut */
+}

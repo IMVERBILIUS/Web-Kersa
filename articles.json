@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "image/taman-hutan-raya-juanda.jpg",
+        "title": "Taman Hutan Raya Juanda",
+        "description": "Destinasi wisata alam dengan keindahan hutan yang memikat.",
+        "content": "Taman Hutan Raya Juanda menawarkan keindahan hutan alami yang luas dan cocok untuk aktivitas trekking, piknik, atau sekadar bersantai menikmati udara segar.",
+        "category": "artikel"
+    },
+    {
+        "id": 2,
+        "image": "image/th.jpg",
+        "title": "Curug Dago",
+        "description": "Air terjun tersembunyi dengan suasana tenang dan asri.",
+        "content": "Curug Dago adalah air terjun yang menawarkan ketenangan dan pesona alam yang menenangkan, cocok bagi Anda yang mencari destinasi alam tersembunyi.",
+        "category": "artikel"
+    },
+    {
+        "id": 3,
+        "image": "image/th (1).jpg",
+        "title": "Gunung Tangkuban Perahu",
+        "description": "Gunung berapi yang menawarkan pemandangan menakjubkan.",
+        "content": "Gunung Tangkuban Perahu menyuguhkan pemandangan kawah yang indah dan terkenal dengan legenda Sangkuriang.",
+        "category": "artikel"
+    },
+    {
+        "id": 4,
+        "image": "image/th.jpg",
+        "title": "Festival Budaya Bandung 2024",
+        "description": "Event tahunan yang menampilkan seni, budaya, dan kuliner khas Bandung.",
+        "content": "Festival Budaya Bandung 2024 menampilkan beragam pertunjukan seni, musik, dan kuliner lokal yang menarik ribuan pengunjung setiap tahunnya.",
+        "category": "Berita"
+    },
+    {
+        "id": 5,
+        "image": "image/th.jpg",
+        "title": "Pembangunan Flyover Pasupati",
+        "description": "Proyek pembangunan jalan layang Pasupati dipercepat untuk mengurangi kemacetan.",
+        "content": "Flyover Pasupati yang baru diharapkan mampu mengurangi kemacetan di kawasan Dago dan Cihampelas, serta mempercepat mobilitas warga.",
+        "category": "Berita"
+    }
+]

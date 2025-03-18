@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semua Artikel</title>
+    <link rel="stylesheet" href="all_article.css">
+</head>
+<body>
+
+<header class="navbar">
+    <div>
+        <div class="brand">KERSA</div>
+        <div class="subtitle">By Ankara Cipta</div>
+    </div>
+    <div class="menu">MENU</div>
+</header>
+
+<div class="container">
+    <h1>Semua Artikel</h1>
+
+    <!-- Filter Section -->
+    <div class="filter-section">
+        <label for="category-filter">Filter berdasarkan kategori:</label>
+        <select id="category-filter">
+            <option value="all">Semua Kategori</option>
+            <option value="artikel">Wisata</option>
+            <option value="Berita">Berita</option>
+        </select>
+    </div>
+
+    <!-- Daftar Artikel -->
+    <div class="article-list" id="article-list">
+        <!-- Artikel akan dimuat melalui JavaScript -->
+    </div>
+
+    <a href="index.html" class="btn-back">Kembali ke Beranda</a>
+</div>
+
+<footer>
+    <div class="footer-container">
+        <div class="footer-section">
+            <img src="logo.png" alt="Logo" class="footer-logo">
+            <p>© 2024 Kersa by Ankara Cipta</p>
+        </div>
+        <div class="footer-section">
+            <h3>Menu</h3>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Artikel</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </div>
+        <div class="footer-section">
+            <h3>Kontak Kami</h3>
+            <p>Email: <a href="mailto:kersa.id@gmail.com">kersa.id@gmail.com</a></p>
+            <p>Telepon: <a href="tel:+620812345678">+62 0812 3456 78</a></p>
+            <div class="social-links">
+                <a href="#">Facebook</a> |
+                <a href="#">Instagram</a> |
+                <a href="#">Twitter</a>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    fetch('articles.json')
+        .then(response => response.json())
+        .then(articles => {
+            const articleList = document.getElementById("article-list");
+            const categoryFilter = document.getElementById("category-filter");
+
+            // Fungsi untuk menampilkan artikel
+            function displayArticles(filteredArticles) {
+                articleList.innerHTML = filteredArticles.map(article => `
+                    <a href="detail.html?id=${article.id}" class="btn-detail">
+                        <div class="article-card">
+                            <img src="${article.image}" alt="${article.title}">
+                            <div class="article-overlay">
+                                <h2>${article.title}</h2>
+                                <p>${article.description}</p>
+                            </div>
+                        </div>  
+                    </a>
+                `).join('');
+            }
+
+            // Tampilkan semua artikel saat pertama kali dimuat
+            displayArticles(articles);
+
+            // Event Listener untuk filter kategori
+            categoryFilter.addEventListener('change', () => {
+                const selectedCategory = categoryFilter.value;
+                const filteredArticles = selectedCategory === 'all'
+                    ? articles
+                    : articles.filter(article => article.category === selectedCategory);
+
+                displayArticles(filteredArticles);
+            });
+        })
+        .catch(error => {
+            console.error("Gagal memuat data artikel:", error);
+            document.getElementById("article-list").innerHTML = `
+                <h1>Terjadi kesalahan saat memuat artikel.</h1>
+            `;
+        });
+</script>
+
+</body>
+</html>
