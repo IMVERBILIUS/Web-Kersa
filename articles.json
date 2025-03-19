@@ -1,42 +1,343 @@
 [
     {
-        "id": 1,
-        "image": "image/taman-hutan-raya-juanda.jpg",
-        "title": "Taman Hutan Raya Juanda",
-        "description": "Destinasi wisata alam dengan keindahan hutan yang memikat.",
-        "content": "Taman Hutan Raya Juanda menawarkan keindahan hutan alami yang luas dan cocok untuk aktivitas trekking, piknik, atau sekadar bersantai menikmati udara segar.",
-        "category": "artikel"
-    },
-    {
+      "id": 1,
+      "title": "Renovasi Rumah dengan Konsep Eco Design",
+      "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+      "category": "Artikel",
+      "image": "image/artikel-1.jpg",
+      "author": "Nama Penulis",
+      "published_date": "2024-07-21",
+      "link": "detail.html?id=1",
+      "content": [
+        {
+          "section_title": "Latar Belakang",
+          "paragraphs": [
+            "Renovasi rumah umumnya dilakukan karena beberapa alasan, seperti kebutuhan ruang baru, kejenuhan terhadap desain lama, atau keinginan meningkatkan kualitas hidup.",
+            "Namun, merenovasi rumah sering dianggap membutuhkan lebih banyak usaha, waktu, dan biaya dibandingkan membeli rumah baru.",
+            "Selain itu, ada anggapan bahwa menerapkan konsep rumah ramah lingkungan atau eco house saat renovasi akan menambah kompleksitas proyek dan biaya. Pemikiran ini sebenarnya keliru.",
+            "Dengan pemahaman prinsip eco design dan bantuan tenaga ahli, renovasi ramah lingkungan dapat menghemat biaya, mengurangi limbah, meningkatkan efisiensi energi, serta memberikan kontribusi terhadap pelestarian lingkungan.",
+            "Di era global warming seperti sekarang, desain yang memperhatikan aspek keberlanjutan menjadi penting. Banyak negara telah memasukkan konsep ramah lingkungan dalam regulasi pembangunan.",
+            "Oleh karena itu, integrasi eco design dalam renovasi rumah menjadi langkah bijak yang dapat dimulai dari skala kecil, bahkan dari rumah tinggal pribadi."
+          ]
+        },
+        {
+          "section_title": "Prinsip Dasar Eco Design",
+          "paragraphs": [
+            "Eco design memiliki fokus utama mengurangi dampak lingkungan, mulai dari produksi material, proses pembangunan, hingga operasional bangunan.",
+            "Beberapa prinsip dasar yang ditekankan dalam artikel ini meliputi: Mengurangi Jejak Karbon, Efisiensi Energi, dan Penggunaan Material Berkelanjutan.",
+            "Konstruksi bangunan menyumbang jejak karbon besar melalui produksi material, transportasi, energi selama proses pembangunan, serta limbah yang dihasilkan.",
+            "Renovasi dengan pendekatan eco design mengupayakan pengurangan limbah dan emisi dengan memilih material lokal, material daur ulang, atau material bekas pakai yang masih layak.",
+            "Rumah yang dirancang ramah lingkungan menekankan efisiensi energi selama masa penggunaan. Ini termasuk pencahayaan alami, penghawaan alami, serta penggunaan peralatan hemat energi.",
+            "Material lokal mengurangi jejak transportasi. Material bekas atau daur ulang mencegah eksploitasi sumber daya baru.",
+            "Sistem prefabrikasi mengurangi limbah konstruksi dan meningkatkan efisiensi proses pembangunan."
+          ]
+        },
+        {
+          "section_title": "Strategi Eco Design dalam Renovasi Rumah",
+          "paragraphs": [
+            "Mengubah Layout Rumah dapat menciptakan tata ruang yang mendukung efisiensi aktivitas penghuni sekaligus memaksimalkan pencahayaan dan penghawaan alami.",
+            "Membuat open layout dengan menghilangkan sekat dinding antar ruang seperti dapur, ruang makan, dan ruang keluarga. Dengan ruang terbuka tanpa sekat, cahaya dan udara dapat menyebar merata ke seluruh ruangan.",
+            "Mengatur ulang fungsi ruang. Misalnya, area tidur yang biasanya diletakkan di lantai atas bisa dipindah ke lantai bawah karena aktivitas di kamar tidur umumnya dilakukan saat malam hari.",
+            "Sementara area aktivitas seperti ruang keluarga dan ruang makan bisa diletakkan di lantai atas agar memanfaatkan pencahayaan alami di siang hari.",
+            "Catatan penting: Menghilangkan dinding, apalagi yang bersifat struktural, harus diperhitungkan dengan seksama. Konsultasi dengan tenaga ahli sangat dianjurkan.",
+            "Selain panjang dan lebar ruangan, artikel menekankan pentingnya memperhatikan tinggi ruangan. Menambah volume ruang dengan membuka bagian atas ruangan memiliki banyak manfaat:",
+            "Void atau ruang terbuka vertikal antara lantai bawah dan atas memungkinkan cahaya alami masuk ke bagian dalam rumah.",
+            "Plafon tinggi membantu mendinginkan ruangan, terutama di iklim tropis seperti Indonesia.",
+            "Ruang dengan pencahayaan alami dan penghawaan yang baik mengurangi kebutuhan energi untuk lampu dan pendingin udara."
+          ]
+        },
+        {
+          "section_title": "Dampak Positif Eco Design dalam Renovasi",
+          "paragraphs": [
+            "Penerapan pencahayaan alami dan ventilasi silang dapat mengurangi penggunaan listrik untuk penerangan dan AC.",
+            "Pengurangan Limbah: Memanfaatkan material bekas atau lokal mengurangi limbah konstruksi dan penggunaan material baru.",
+            "Efisiensi Biaya Jangka Panjang: Walaupun mungkin ada tambahan biaya awal, penghematan listrik, air, dan biaya perawatan memberikan keuntungan signifikan dalam jangka panjang.",
+            "Meningkatkan Kualitas Hidup: Rumah yang terang, sejuk, memiliki udara bersih, dan tata ruang fleksibel mendukung kenyamanan dan kesehatan penghuni.",
+            "Kontribusi Terhadap Lingkungan: Setiap pengurangan jejak karbon, penghematan energi, dan pengelolaan limbah konstruksi berkontribusi dalam upaya mengurangi dampak pemanasan global."
+          ]
+        },
+        {
+          "section_title": "Kesimpulan",
+          "paragraphs": [
+            "Renovasi rumah tinggal bisa menjadi peluang besar untuk menerapkan prinsip eco design.",
+            "Dengan perencanaan yang cermat, perubahan layout, volume ruang, fleksibilitas ruang, hingga penambahan bukaan jendela dapat menciptakan rumah hemat energi, ramah lingkungan, sekaligus nyaman bagi penghuninya.",
+            "Di tengah tantangan global seperti perubahan iklim dan krisis sumber daya, konsep eco design pada renovasi rumah adalah langkah bijak yang membawa manfaat ekologis, ekonomi, dan sosial."
+          ]
+        }
+      ]
+    },{
         "id": 2,
-        "image": "image/th.jpg",
-        "title": "Curug Dago",
-        "description": "Air terjun tersembunyi dengan suasana tenang dan asri.",
-        "content": "Curug Dago adalah air terjun yang menawarkan ketenangan dan pesona alam yang menenangkan, cocok bagi Anda yang mencari destinasi alam tersembunyi.",
-        "category": "artikel"
-    },
-    {
+        "title": "PENERAPAN ARSITEKTUR ECO DESIGN PADA RESORT PULAU PADAMARANG DI KABUPATEN KOLAKA",
+        "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+        "category": "Artikel",
+        "image": "image/artikel-2.jpg",
+        "author": "Nama Penulis",
+        "published_date": "2024-07-21",
+        "link": "detail.html?id=2",
+        "content": [
+          {
+            "section_title": "Eco-Design atau Desain Berkelanjutan",
+            "paragraphs": [
+              "Eco-design merupakan pendekatan yang memadukan kebutuhan manusia dengan kepedulian terhadap lingkungan. Dalam artikel ini, eco-design digambarkan sebagai proses perancangan produk, bangunan, atau sistem yang memperhatikan dampak lingkungan secara menyeluruh sepanjang siklus hidupnya, mulai dari pemilihan bahan, proses produksi, penggunaan, hingga pembuangan akhir."
+            ]
+          },
+          {
+            "section_title": "Prinsip-Prinsip Eco-Design",
+            "paragraphs": [
+              "Penggunaan Material Ramah Lingkungan: Material yang digunakan harus memiliki dampak rendah terhadap lingkungan, baik saat proses ekstraksi, manufaktur, penggunaan, maupun pembuangannya.",
+              "Efisiensi Energi: Desain diarahkan untuk meminimalkan konsumsi energi melalui pemilihan bahan isolasi baik, optimalisasi pencahayaan alami, serta penggunaan energi terbarukan.",
+              "Daya Tahan Produk: Eco-design mendorong pembuatan produk atau bangunan yang memiliki masa pakai panjang, mengurangi kebutuhan penggantian atau perbaikan yang berlebihan.",
+              "Pengurangan Limbah: Proses desain berfokus pada meminimalisir produksi limbah dengan menggunakan bahan daur ulang atau memungkinkan desain yang mudah dibongkar agar material bisa digunakan kembali."
+            ]
+          },
+          {
+            "section_title": "Penerapan Eco-Design pada Resort Pulau Padamarang",
+            "paragraphs": [
+              "Pulau Padamarang merupakan destinasi wisata potensial dengan keindahan alam pegunungan, laut, pantai, dan keanekaragaman hayati bawah laut.",
+              "Resort yang dirancang bertujuan untuk mewadahi aktivitas wisatawan dengan fasilitas lengkap serta menerapkan prinsip arsitektur eco-design agar bangunan dapat beradaptasi dengan kondisi lingkungan sekitar tanpa merusaknya."
+            ]
+          },
+          {
+            "section_title": "Konsep Desain",
+            "paragraphs": [
+              "Pengolahan Tapak: Resort memanfaatkan orientasi matahari untuk pencahayaan alami dan mengurangi pemanasan berlebih, dengan penggunaan vegetasi alami sebagai peneduh.",
+              "Material Bangunan: Bahan bangunan dipilih dari material lokal, ramah lingkungan, serta mudah didaur ulang. Struktur utama resort menggunakan kayu pada pondasi, rangka utama, dan atap.",
+              "Tampilan dan Bentuk Bangunan: Bentuk dasar resort mengambil inspirasi dari rumah adat Tolaki Mekongga Kolaka dengan warna-warna natural seperti cokelat dan lantai kayu parket.",
+              "Efisiensi Ruang Terbuka: Komposisi antara bangunan dan ruang terbuka dihitung dengan rasio KDB (Koefisien Dasar Bangunan) sebesar 17%, dan KOS (Koefisien Open Space) sebesar 83%."
+            ]
+          },
+          {
+            "section_title": "Manfaat Eco-Design",
+            "paragraphs": [
+              "Mengurangi Jejak Ekologis: Bangunan hemat energi dan material dapat mengurangi dampak lingkungan jangka panjang.",
+              "Menarik Wisatawan Berwawasan Lingkungan: Wisatawan kini semakin peduli pada keberlanjutan, sehingga resort berbasis eco-design menjadi daya tarik tersendiri.",
+              "Penghematan Biaya Operasional: Efisiensi energi dan material berdampak langsung pada penghematan biaya pemeliharaan.",
+              "Mendukung Konservasi Alam: Sebagai bagian dari taman laut, resort ini membantu menjaga ekosistem tanpa merusak keberadaan flora dan fauna setempat."
+            ]
+          }
+        ]
+      },
+      {
         "id": 3,
-        "image": "image/th (1).jpg",
-        "title": "Gunung Tangkuban Perahu",
-        "description": "Gunung berapi yang menawarkan pemandangan menakjubkan.",
-        "content": "Gunung Tangkuban Perahu menyuguhkan pemandangan kawah yang indah dan terkenal dengan legenda Sangkuriang.",
-        "category": "artikel"
-    },
-    {
+        "title": "Pengantar Metodologi Desain Ramah Lingkungan dan Peran Jejak Karbon Produk",
+        "category": "Artikel",
+        "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+        "image": "image/artikel-3.jpg",
+        "author": "Nama Penulis",
+        "published_date": "2024-07-21",
+        "link": "detail.html?id=3",
+        "content": [
+          {
+            "section_title": "Pendahuluan",
+            "paragraphs": [
+              "Eco-design atau Design for Environment (DfE) merupakan pendekatan desain yang mengintegrasikan aspek lingkungan ke dalam proses perancangan produk. Sekitar 80% dampak lingkungan dari suatu produk ditentukan pada tahap desain. Oleh karena itu, eco-design memegang peranan penting dalam meningkatkan keberlanjutan produk, mengurangi konsumsi sumber daya, serta mengurangi emisi karbon.",
+              "Perkembangan eco-design didorong oleh regulasi internasional seperti EU Eco-design Directive dan standar ISO 14006 yang memberikan panduan penerapan eco-design dalam sistem manajemen lingkungan. Selain itu, produk-produk kini semakin diarahkan pada penilaian siklus hidup (Life Cycle Assessment - LCA) untuk meminimalkan dampak lingkungan."
+            ]
+          },
+          {
+            "section_title": "Manfaat dan Peluang Implementasi Eco-Design",
+            "paragraphs": [
+              "Penerapan eco-design menawarkan berbagai manfaat, tidak hanya dari perspektif lingkungan, tetapi juga dari sisi ekonomi dan sosial:",
+              "Lingkungan: Mengurangi konsumsi sumber daya seperti energi, air, dan material. Mengurangi emisi gas rumah kaca (GHG) dan limbah. Meningkatkan efisiensi produksi. Mendorong penggunaan sistem manajemen lingkungan (EMS). Kontribusi pada keberlanjutan global.",
+              "Ekonomi: Menghemat biaya variabel (penghematan energi, bahan baku, pengolahan limbah). Mengurangi biaya tetap. Membuka peluang pasar baru dan pengembangan produk. Diferensiasi produk melalui label ramah lingkungan.",
+              "Sosial: Meningkatkan citra perusahaan sebagai entitas yang bertanggung jawab. Meningkatkan inovasi dan motivasi staf. Meningkatkan kesadaran lingkungan pelanggan."
+            ]
+          },
+          {
+            "section_title": "Ruang Lingkup Eco-Design",
+            "paragraphs": [
+              "Eco-design diterapkan pada berbagai tahap siklus hidup produk, seperti:",
+              "Design for Manufacture and Assembly (DFMA): Optimalisasi proses produksi.",
+              "Design for Disassembly: Mempermudah pembongkaran produk untuk didaur ulang.",
+              "Design for Remanufacturing: Mengoptimalkan perbaikan dan pemakaian ulang komponen.",
+              "Design for Recycling dan Reuse: Mempermudah daur ulang material di akhir masa pakai produk."
+            ]
+          },
+          {
+            "section_title": "Metodologi Eco-Design",
+            "paragraphs": [
+              "Metodologi eco-design yang dijelaskan dalam artikel ini menggabungkan pendekatan Life Cycle Assessment (LCA) dan penilaian kualitatif. Empat langkah utama dalam metodologi ini adalah:",
+              "Definisi Produk & Studi Pasar: Identifikasi kebutuhan pasar dan tren desain. Menetapkan tujuan eco-design.",
+              "Evaluasi Produk: Penilaian kualitatif melalui Qualitative Assessment of Life Cycle Criteria (QALCC). Penilaian kuantitatif menggunakan LCA dan Product Carbon Footprint (PCF). Hasil evaluasi dirangkum dalam eco-briefing.",
+              "Penentuan Strategi Eco-Design: Berdasarkan hasil evaluasi, strategi ditentukan untuk meningkatkan performa lingkungan. Strategi dipilih setelah analisis kelayakan teknis, ekonomi, dan sosial.",
+              "Desain dan Validasi Prototipe: Integrasi strategi eco-design dalam desain produk baru. Validasi melalui LCA dan PCF untuk mengukur peningkatan lingkungan."
+              
+            ]
+          },{
+            "section_title": "Tools Pendukung Eco-Design",
+            "paragraphs": [
+              "1. Qualitative Assessment of Life Cycle Criteria (QALCC) - Merupakan metode kualitatif yang menilai performa lingkungan pada tiap tahap siklus hidup produk (bahan, produksi, distribusi, penggunaan, hingga akhir masa pakai). Tim multidisipliner mengevaluasi aspek-aspek lingkungan dan menghasilkan diagram spider chart untuk mengidentifikasi titik kritis yang memerlukan perbaikan.",
+              "2. Life Cycle Assessment (LCA) - Metode kuantitatif standar internasional (ISO 14040) yang menilai dampak lingkungan sepanjang siklus hidup produk. LCA melibatkan: Penetapan tujuan dan ruang lingkup, Pengumpulan data input-output produksi, Penilaian dampak lingkungan (seperti perubahan iklim, limbah, konsumsi energi), dan Interpretasi hasil untuk pengambilan keputusan.",
+              "3. Product Carbon Footprint (PCF) - Merupakan indikator lingkungan yang mengukur total emisi gas rumah kaca (GHG) selama siklus hidup produk. Dinyatakan dalam satuan CO2-equivalent, PCF membantu: Mengidentifikasi sumber utama emisi karbon, Menentukan target pengurangan karbon, dan Menjadi alat komunikasi lingkungan kepada konsumen melalui label karbon (misalnya, Carbon Trust).",
+              "Eco-Briefing: Definisi Persyaratan Desain - Eco-briefing merangkum temuan dari evaluasi kualitatif dan kuantitatif, menyoroti titik kritis di tiap tahap siklus hidup produk. Ini menjadi acuan untuk menentukan strategi eco-design yang sesuai. Misalnya, pada produk kursi, evaluasi menunjukkan bahwa aspek distribusi dan akhir masa pakai memiliki dampak signifikan, sehingga perlu strategi khusus di tahap tersebut.",
+              "Strategi Eco-Design - Beberapa strategi utama eco-design meliputi: Konsep Produk, Material, Produksi, Pengemasan, Distribusi, Penggunaan, dan Akhir Masa Pakai.",
+              "Product Carbon Footprint (PCF) sebagai Alat Komunikasi - PCF tidak hanya digunakan untuk evaluasi internal, tetapi juga sebagai alat komunikasi kepada konsumen. Label karbon membantu konsumen membuat keputusan pembelian yang lebih sadar lingkungan. PCF dapat disertakan sebagai bagian dari deklarasi produk lingkungan (Environmental Product Declaration - EPD) atau label karbon mandiri (self-declared).",
+              "Validasi dan Pengembangan Prototipe - Setelah strategi eco-design dipilih, prototipe dirancang dan diuji melalui LCA dan PCF untuk memastikan peningkatan performa lingkungan. Proses ini dilakukan secara iteratif hingga desain optimal tercapai."
+            ]
+          },{
+            "section_title": "Kesimpulan",
+            "paragraphs": [
+              "Kesimpulan - Metodologi eco-design yang terstruktur seperti yang dipaparkan dalam artikel ini menjadi alat penting bagi perusahaan dalam menghadapi tantangan keberlanjutan. Dengan mengombinasikan penilaian kualitatif dan kuantitatif, serta melibatkan seluruh siklus hidup produk, perusahaan dapat menghasilkan produk yang ramah lingkungan, efisien secara ekonomi, dan bernilai lebih tinggi di pasar. Peran PCF sangat signifikan sebagai indikator lingkungan yang mudah dipahami oleh konsumen, sekaligus menjadi strategi komunikasi efektif dalam era meningkatnya kesadaran terhadap perubahan iklim."
+            ]
+          }
+        ]
+      }
+      ,{
         "id": 4,
-        "image": "image/th.jpg",
-        "title": "Festival Budaya Bandung 2024",
-        "description": "Event tahunan yang menampilkan seni, budaya, dan kuliner khas Bandung.",
-        "content": "Festival Budaya Bandung 2024 menampilkan beragam pertunjukan seni, musik, dan kuliner lokal yang menarik ribuan pengunjung setiap tahunnya.",
-        "category": "Berita"
-    },
-    {
+        "title": "Renovasi Rumah dengan Konsep Eco Design",
+        "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+        "category": "berita",
+        "image": "image/artikel-4.jpg",
+        "author": "Nama Penulis",
+        "published_date": "2024-07-21",
+        "link": "detail.html?id=2",
+        "content": [
+          {
+            "section_title": "Eco-Design atau Desain Berkelanjutan",
+            "paragraphs": [
+              "Eco-design merupakan pendekatan yang memadukan kebutuhan manusia dengan kepedulian terhadap lingkungan. Dalam artikel ini, eco-design digambarkan sebagai proses perancangan produk, bangunan, atau sistem yang memperhatikan dampak lingkungan secara menyeluruh sepanjang siklus hidupnya, mulai dari pemilihan bahan, proses produksi, penggunaan, hingga pembuangan akhir."
+            ]
+          },
+          {
+            "section_title": "Prinsip-Prinsip Eco-Design",
+            "paragraphs": [
+              "Penggunaan Material Ramah Lingkungan: Material yang digunakan harus memiliki dampak rendah terhadap lingkungan, baik saat proses ekstraksi, manufaktur, penggunaan, maupun pembuangannya.",
+              "Efisiensi Energi: Desain diarahkan untuk meminimalkan konsumsi energi melalui pemilihan bahan isolasi baik, optimalisasi pencahayaan alami, serta penggunaan energi terbarukan.",
+              "Daya Tahan Produk: Eco-design mendorong pembuatan produk atau bangunan yang memiliki masa pakai panjang, mengurangi kebutuhan penggantian atau perbaikan yang berlebihan.",
+              "Pengurangan Limbah: Proses desain berfokus pada meminimalisir produksi limbah dengan menggunakan bahan daur ulang atau memungkinkan desain yang mudah dibongkar agar material bisa digunakan kembali."
+            ]
+          },
+          {
+            "section_title": "Penerapan Eco-Design pada Resort Pulau Padamarang",
+            "paragraphs": [
+              "Pulau Padamarang merupakan destinasi wisata potensial dengan keindahan alam pegunungan, laut, pantai, dan keanekaragaman hayati bawah laut.",
+              "Resort yang dirancang bertujuan untuk mewadahi aktivitas wisatawan dengan fasilitas lengkap serta menerapkan prinsip arsitektur eco-design agar bangunan dapat beradaptasi dengan kondisi lingkungan sekitar tanpa merusaknya."
+            ]
+          },
+          {
+            "section_title": "Konsep Desain",
+            "paragraphs": [
+              "Pengolahan Tapak: Resort memanfaatkan orientasi matahari untuk pencahayaan alami dan mengurangi pemanasan berlebih, dengan penggunaan vegetasi alami sebagai peneduh.",
+              "Material Bangunan: Bahan bangunan dipilih dari material lokal, ramah lingkungan, serta mudah didaur ulang. Struktur utama resort menggunakan kayu pada pondasi, rangka utama, dan atap.",
+              "Tampilan dan Bentuk Bangunan: Bentuk dasar resort mengambil inspirasi dari rumah adat Tolaki Mekongga Kolaka dengan warna-warna natural seperti cokelat dan lantai kayu parket.",
+              "Efisiensi Ruang Terbuka: Komposisi antara bangunan dan ruang terbuka dihitung dengan rasio KDB (Koefisien Dasar Bangunan) sebesar 17%, dan KOS (Koefisien Open Space) sebesar 83%."
+            ]
+          },
+          {
+            "section_title": "Manfaat Eco-Design",
+            "paragraphs": [
+              "Mengurangi Jejak Ekologis: Bangunan hemat energi dan material dapat mengurangi dampak lingkungan jangka panjang.",
+              "Menarik Wisatawan Berwawasan Lingkungan: Wisatawan kini semakin peduli pada keberlanjutan, sehingga resort berbasis eco-design menjadi daya tarik tersendiri.",
+              "Penghematan Biaya Operasional: Efisiensi energi dan material berdampak langsung pada penghematan biaya pemeliharaan.",
+              "Mendukung Konservasi Alam: Sebagai bagian dari taman laut, resort ini membantu menjaga ekosistem tanpa merusak keberadaan flora dan fauna setempat."
+            ]
+          }
+        ]
+      },
+      {
         "id": 5,
-        "image": "image/th.jpg",
-        "title": "Pembangunan Flyover Pasupati",
-        "description": "Proyek pembangunan jalan layang Pasupati dipercepat untuk mengurangi kemacetan.",
-        "content": "Flyover Pasupati yang baru diharapkan mampu mengurangi kemacetan di kawasan Dago dan Cihampelas, serta mempercepat mobilitas warga.",
-        "category": "Berita"
-    }
-]
+        "title": "Renovasi Rumah dengan Konsep Eco Design",
+        "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+        "category": "Artikel",
+        "image": "image/taman-hutan-raya-juanda.jpg",
+        "author": "Nama Penulis",
+        "published_date": "2024-07-21",
+        "link": "detail.html?id=2",
+        "content": [
+          {
+            "section_title": "Eco-Design atau Desain Berkelanjutan",
+            "paragraphs": [
+              "Eco-design merupakan pendekatan yang memadukan kebutuhan manusia dengan kepedulian terhadap lingkungan. Dalam artikel ini, eco-design digambarkan sebagai proses perancangan produk, bangunan, atau sistem yang memperhatikan dampak lingkungan secara menyeluruh sepanjang siklus hidupnya, mulai dari pemilihan bahan, proses produksi, penggunaan, hingga pembuangan akhir."
+            ]
+          },
+          {
+            "section_title": "Prinsip-Prinsip Eco-Design",
+            "paragraphs": [
+              "Penggunaan Material Ramah Lingkungan: Material yang digunakan harus memiliki dampak rendah terhadap lingkungan, baik saat proses ekstraksi, manufaktur, penggunaan, maupun pembuangannya.",
+              "Efisiensi Energi: Desain diarahkan untuk meminimalkan konsumsi energi melalui pemilihan bahan isolasi baik, optimalisasi pencahayaan alami, serta penggunaan energi terbarukan.",
+              "Daya Tahan Produk: Eco-design mendorong pembuatan produk atau bangunan yang memiliki masa pakai panjang, mengurangi kebutuhan penggantian atau perbaikan yang berlebihan.",
+              "Pengurangan Limbah: Proses desain berfokus pada meminimalisir produksi limbah dengan menggunakan bahan daur ulang atau memungkinkan desain yang mudah dibongkar agar material bisa digunakan kembali."
+            ]
+          },
+          {
+            "section_title": "Penerapan Eco-Design pada Resort Pulau Padamarang",
+            "paragraphs": [
+              "Pulau Padamarang merupakan destinasi wisata potensial dengan keindahan alam pegunungan, laut, pantai, dan keanekaragaman hayati bawah laut.",
+              "Resort yang dirancang bertujuan untuk mewadahi aktivitas wisatawan dengan fasilitas lengkap serta menerapkan prinsip arsitektur eco-design agar bangunan dapat beradaptasi dengan kondisi lingkungan sekitar tanpa merusaknya."
+            ]
+          },
+          {
+            "section_title": "Konsep Desain",
+            "paragraphs": [
+              "Pengolahan Tapak: Resort memanfaatkan orientasi matahari untuk pencahayaan alami dan mengurangi pemanasan berlebih, dengan penggunaan vegetasi alami sebagai peneduh.",
+              "Material Bangunan: Bahan bangunan dipilih dari material lokal, ramah lingkungan, serta mudah didaur ulang. Struktur utama resort menggunakan kayu pada pondasi, rangka utama, dan atap.",
+              "Tampilan dan Bentuk Bangunan: Bentuk dasar resort mengambil inspirasi dari rumah adat Tolaki Mekongga Kolaka dengan warna-warna natural seperti cokelat dan lantai kayu parket.",
+              "Efisiensi Ruang Terbuka: Komposisi antara bangunan dan ruang terbuka dihitung dengan rasio KDB (Koefisien Dasar Bangunan) sebesar 17%, dan KOS (Koefisien Open Space) sebesar 83%."
+            ]
+          },
+          {
+            "section_title": "Manfaat Eco-Design",
+            "paragraphs": [
+              "Mengurangi Jejak Ekologis: Bangunan hemat energi dan material dapat mengurangi dampak lingkungan jangka panjang.",
+              "Menarik Wisatawan Berwawasan Lingkungan: Wisatawan kini semakin peduli pada keberlanjutan, sehingga resort berbasis eco-design menjadi daya tarik tersendiri.",
+              "Penghematan Biaya Operasional: Efisiensi energi dan material berdampak langsung pada penghematan biaya pemeliharaan.",
+              "Mendukung Konservasi Alam: Sebagai bagian dari taman laut, resort ini membantu menjaga ekosistem tanpa merusak keberadaan flora dan fauna setempat."
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Renovasi Rumah dengan Konsep Eco Design",
+        "description": "Panduan lengkap menerapkan prinsip eco design dalam renovasi rumah untuk menciptakan hunian yang nyaman dan ramah lingkungan.",
+        "category": "Artikel",
+        "image": "image/taman-hutan-raya-juanda.jpg",
+        "author": "Nama Penulis",
+        "published_date": "2024-07-21",
+        "link": "detail.html?id=2",
+        "content": [
+          {
+            "section_title": "Eco-Design atau Desain Berkelanjutan",
+            "paragraphs": [
+              "Eco-design merupakan pendekatan yang memadukan kebutuhan manusia dengan kepedulian terhadap lingkungan. Dalam artikel ini, eco-design digambarkan sebagai proses perancangan produk, bangunan, atau sistem yang memperhatikan dampak lingkungan secara menyeluruh sepanjang siklus hidupnya, mulai dari pemilihan bahan, proses produksi, penggunaan, hingga pembuangan akhir."
+            ]
+          },
+          {
+            "section_title": "Prinsip-Prinsip Eco-Design",
+            "paragraphs": [
+              "Penggunaan Material Ramah Lingkungan: Material yang digunakan harus memiliki dampak rendah terhadap lingkungan, baik saat proses ekstraksi, manufaktur, penggunaan, maupun pembuangannya.",
+              "Efisiensi Energi: Desain diarahkan untuk meminimalkan konsumsi energi melalui pemilihan bahan isolasi baik, optimalisasi pencahayaan alami, serta penggunaan energi terbarukan.",
+              "Daya Tahan Produk: Eco-design mendorong pembuatan produk atau bangunan yang memiliki masa pakai panjang, mengurangi kebutuhan penggantian atau perbaikan yang berlebihan.",
+              "Pengurangan Limbah: Proses desain berfokus pada meminimalisir produksi limbah dengan menggunakan bahan daur ulang atau memungkinkan desain yang mudah dibongkar agar material bisa digunakan kembali."
+            ]
+          },
+          {
+            "section_title": "Penerapan Eco-Design pada Resort Pulau Padamarang",
+            "paragraphs": [
+              "Pulau Padamarang merupakan destinasi wisata potensial dengan keindahan alam pegunungan, laut, pantai, dan keanekaragaman hayati bawah laut.",
+              "Resort yang dirancang bertujuan untuk mewadahi aktivitas wisatawan dengan fasilitas lengkap serta menerapkan prinsip arsitektur eco-design agar bangunan dapat beradaptasi dengan kondisi lingkungan sekitar tanpa merusaknya."
+            ]
+          },
+          {
+            "section_title": "Konsep Desain",
+            "paragraphs": [
+              "Pengolahan Tapak: Resort memanfaatkan orientasi matahari untuk pencahayaan alami dan mengurangi pemanasan berlebih, dengan penggunaan vegetasi alami sebagai peneduh.",
+              "Material Bangunan: Bahan bangunan dipilih dari material lokal, ramah lingkungan, serta mudah didaur ulang. Struktur utama resort menggunakan kayu pada pondasi, rangka utama, dan atap.",
+              "Tampilan dan Bentuk Bangunan: Bentuk dasar resort mengambil inspirasi dari rumah adat Tolaki Mekongga Kolaka dengan warna-warna natural seperti cokelat dan lantai kayu parket.",
+              "Efisiensi Ruang Terbuka: Komposisi antara bangunan dan ruang terbuka dihitung dengan rasio KDB (Koefisien Dasar Bangunan) sebesar 17%, dan KOS (Koefisien Open Space) sebesar 83%."
+            ]
+          },
+          {
+            "section_title": "Manfaat Eco-Design",
+            "paragraphs": [
+              "Mengurangi Jejak Ekologis: Bangunan hemat energi dan material dapat mengurangi dampak lingkungan jangka panjang.",
+              "Menarik Wisatawan Berwawasan Lingkungan: Wisatawan kini semakin peduli pada keberlanjutan, sehingga resort berbasis eco-design menjadi daya tarik tersendiri.",
+              "Penghematan Biaya Operasional: Efisiensi energi dan material berdampak langsung pada penghematan biaya pemeliharaan.",
+              "Mendukung Konservasi Alam: Sebagai bagian dari taman laut, resort ini membantu menjaga ekosistem tanpa merusak keberadaan flora dan fauna setempat."
+            ]
+          }
+        ]
+      }
+      
+    
+  ]

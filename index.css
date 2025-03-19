@@ -1,0 +1,123 @@
+:root {
+  --bgGray: #818589;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.navbar {
+  top: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  padding: 10px 40px;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-logo {
+  display: flex;
+  gap: 0;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+}
+.navbar-logo h1 {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.navbar-menu {
+  font-size: 36px;
+  font-weight: 300;
+  color: white;
+}
+.home-page {
+  height: 100vh;
+  width: 100%;
+  background-image: url(image/hero-image.jpg);
+
+  background-size: cover;
+}
+.gradient-home {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, var(--bgGray) 100%);
+}
+
+.home-page-text {
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.footer-address {
+  background-color: var(--bgGray);
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  padding: 30px;
+  color: white;
+  border-top: 2px solid white;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.footer-address-text {
+  display: flex;
+  justify-content: center;
+  gap: 200px;
+  text-align: center;
+}
+
+.footer-address-text p {
+  font-size: 20px;
+}
+
+.article {
+  width: 100%;
+  min-height: 100vh;
+  padding: 40px;
+  background-color: var(--bgGray);
+}
+.article-title {
+  font-size: 36px;
+  font-weight: 300;
+}
+
+.article-content {
+  margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.article-content-item {
+  flex: 1 1 calc(33.333% - 20px);
+  max-width: calc(33.333% - 20px);
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  background: white;
+  padding: 15px;
+}
+.article-content-item img {
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+}

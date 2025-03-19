@@ -14,7 +14,7 @@
         <div class="brand">KERSA</div>
         <div class="subtitle">By Ankara Cipta</div>
     </div>
-    <div class="menu">MENU</div>
+    
 </header>
 
     <div class="container">
@@ -26,8 +26,8 @@
     <footer>
         <div class="footer-container">
             <div class="footer-section">
-                <img src="logo.png" alt="Logo" class="footer-logo">
-                <p>© 2024 Kersa by Ankara Cipta</p>
+          
+                <p>© 2025 Kersa by Ankara Cipta</p>
             </div>
             <div class="footer-section">
                 <h3>Menu</h3>
@@ -35,7 +35,7 @@
                     <li><a href="#">Beranda</a></li>
                     <li><a href="#">Tentang Kami</a></li>
                     <li><a href="#">Artikel</a></li>
-                    <li><a href="#">Kontak</a></li>
+                    <li><a href="contact.html">Kontak</a></li>
                 </ul>
             </div>
             <div class="footer-section">
@@ -62,15 +62,24 @@
                 const selectedArticle = articles.find(article => article.id === articleId);
 
                 if (selectedArticle) {
+                    const contentHTML = selectedArticle.content.map(section => `
+                        <h2>${section.section_title}</h2>
+                        ${section.paragraphs.map(paragraph => `<p>${paragraph}</p>`).join('')}
+                    `).join('');
+
                     document.getElementById("article-detail").innerHTML = `
                         <div class="article-detail-container">
-                                <img src="${selectedArticle.image}" alt="${selectedArticle.title}" class="article-image">
-                                <div class="article-text">
-                                    <h1>${selectedArticle.title}</h1>
-                                    <p>${selectedArticle.content}</p>
-                                    <a href="index.html" class="btn-back">Kembali ke Beranda</a>
+                            <img src="${selectedArticle.image}" alt="${selectedArticle.title}" class="article-image">
+                            <div class="article-text">
+                                <h1>${selectedArticle.title}</h1>
+                                <p class="article-category">Kategori: ${selectedArticle.category}</p>
+                                <p class="article-description">${selectedArticle.description}</p>
+                                <div class="article-content">
+                                    ${contentHTML}
                                 </div>
+                                <a href="index.html" class="btn-back">Kembali ke Beranda</a>
                             </div>
+                        </div>
                     `;
                 } else {
                     document.getElementById("article-detail").innerHTML = `
