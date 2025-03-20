@@ -1,90 +1,168 @@
 :root {
-    --bgGray: #818589;
+  --bgColor: #f5f5f5;
+  --textColor: #333;
+  --accentColor: #555;
+  --spacing: 100px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: var(--bgColor);
+  color: var(--textColor);
+  line-height: 1.6;
+}
+
+.navbar1 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 20px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo {
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar-logo h1 {
+  font-size: 28px;
+  font-weight: 300;
+  letter-spacing: 2px;
+}
+
+.navbar-logo p {
+  font-size: 12px;
+  color: var(--accentColor);
+}
+
+.navbar-menu {
+  font-size: 16px;
+  font-weight: 300;
+  cursor: pointer;
+  position: relative;
+  padding: 5px 10px;
+  border: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.navbar-menu:hover {
+  border-bottom: 1px solid var(--textColor);
+}
+
+.contact-container {
+  min-height: 100vh;
+  padding: 120px 40px 60px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.contact-header {
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.contact-header h1 {
+  font-size: 36px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  letter-spacing: 3px;
+}
+
+.contact-header p {
+  max-width: 600px;
+  margin: 0 auto;
+  color: var(--accentColor);
+}
+
+.contact-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.contact-section {
+  flex: 1;
+  min-width: 300px;
+}
+
+.contact-section h2 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+  position: relative;
+  padding-bottom: 10px;
+}
+
+.contact-section h2::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 40px;
+  height: 1px;
+  background-color: var(--accentColor);
+}
+
+.address-item {
+  margin-bottom: 30px;
+  line-height: 1.8;
+}
+
+.address-item strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.social-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  transition: transform 0.3s ease;
+}
+
+.social-item:hover {
+  transform: translateX(5px);
+}
+
+.social-item img {
+  width: 24px;
+  height: 24px;
+}
+
+.footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 12px;
+  color: var(--accentColor);
+}
+
+@media (max-width: 768px) {
+  .contact-content {
+    flex-direction: column;
   }
-  
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Poppins", sans-serif;
+
+  .contact-container {
+    padding: 100px 20px 40px;
   }
+
   .navbar {
-    top: 0;
-    left: 0;
-    right: 0;
-    position: absolute;
-    padding: 10px 40px;
-    background-color: transparent;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 15px 20px;
   }
-  .navbar-logo {
-    display: flex;
-    gap: 0;
-    flex-direction: column;
-    justify-content: center;
-    color: black;
-  }
-  .navbar-logo h1 {
-    font-size: 36px;
-    font-weight: 300;
-  }
-  
-  .navbar-menu {
-    font-size: 36px;
-    font-weight: 300;
-    color: black;
-  }
-  
-  .contact {
-    min-height: 100vh;
-    background-color: var(--bgGray);
-    padding: 100px 40px;
-  }
-  .contact .btn_back {
-    display: flex;
-    justify-content: end;
-    align-items: center;
-  }
-  .contact .btn_back img {
-    fill: white;
-    height: 40px;
-    width: 40px;
-  }
-  .contact .btn_back a {
-    display: flex;
-    text-decoration: none;
-    color: white;
-    font-size: 24px;
-    justify-content: end;
-    cursor: pointer;
-  }
-  .contact-list {
-    display: flex;
-    justify-content: space-between;
-  }
-  .title {
-    font-size: 36px;
-    font-weight: 500;
-  }
-  .contact-sosial {
-    margin-top: 20px;
-  }
-  .contact-sosial h2 {
-    color: white;
-    font-weight: 500;
-    margin-bottom: 10px;
-  }
-  
-  .address {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .address-item {
-    font-size: 2rem;
-    color: white;
-    margin-bottom: 20px;
-    width: 70%;
-  }
+}

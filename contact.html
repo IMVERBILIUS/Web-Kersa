@@ -4,48 +4,96 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="contact.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
     <title>Contect Us</title>
   </head>
   <body>
-    <!-- navbar -->
-    <header>
-      <nav class="navbar">
-        <div class="navbar-logo">
-          <h1>KERSA</h1>
-          <p>By Ankara Cipta</p>
-        </div>
-        <h1 class="navbar-menu">MENU</h1>
-      </nav>
-    </header>
-    <!-- end navbar -->
-    <div class="contact">
-      <!-- contact -->
-      <div class="btn_back">
-        <img src="image/icons8-back-50.png" alt="" />
-        <a href="index.html">Back</a>
+    <!-- Navbar -->
+    <nav class="navbar1">
+      <div class="navbar-logo">
+        <h1>KERSA</h1>
+        <p>By Ankara Cipta</p>
       </div>
-      <h1 class="title">Contact Us</h1>
-      <div class="contact-list">
-        <div class="contact-sosial">
-          <h2>Instagram : Kersa.id</h2>
-          <h2>Email : Kersa.id@gmail.com</h2>
-          <h2>Linkedin : Kersa.id</h2>
+    </nav>
+
+    <!-- Contact Section -->
+    <div class="contact-container">
+      <div class="contact-header">
+        <h1>CONTACT</h1>
+        <p>Reach out to us for inquiries, collaborations, or to learn more about our services. We're here to help.</p>
+      </div>
+
+      <div class="contact-content">
+        <div class="contact-section">
+          <h2>Our Offices</h2>
+          <div class="address-item">
+            <strong>Kantor Pusat</strong>
+            Jl. Sadar Dusun I Kampung Padang,<br />
+            Riau - 28557<br />
+            Telepon: 082 22095 5595
+          </div>
+
+          <div class="address-item">
+            <strong>Kantor Cabang</strong>
+            Ngadiwinatan NG l/ 1106 Yogyakarta,<br />
+            DIY 55151<br />
+            Telepon: 082 22095 5595
+          </div>
         </div>
 
-        <!-- address -->
-        <div class="address">
-          <p class="address-item">
-            Kantor Pusat <br />
-            Jl. Sadar Dusun I Kampung Padang, Riau - 28557 <br />
-            Telepon: 082 22095 5595
-          </p>
-          <p class="address-item">
-            Kantor Cabang <br />
-            Ngadiwinatan NG l/ 1106 Yogyakarta, DIY 55151 <br />
-            Telepon: 082 22095 5595
-          </p>
+        <div class="contact-section">
+          <h2>Social Media</h2>
+          <div class="social-media">
+            <a href="#" class="social-item">
+              <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" />
+              <span>Kersa.id</span>
+            </a>
+            <a href="#" class="social-item">
+              <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+              <span>Kersa.id</span>
+            </a>
+            <a href="#" class="social-item">
+              <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
+              <span>Kersa.id@gmail.com</span>
+            </a>
+          </div>
         </div>
       </div>
     </div>
+
+    <footer class="bg-dark p-3 text-white text-center py-4 mt-4">
+      <div class="container">
+        <div class="row">
+          <!-- Logo dan Hak Cipta -->
+          <div class="col-md-4 mb-2">
+            <p>&copy; 2025 Kersa by Ankara Cipta</p>
+          </div>
+
+          <!-- Navigasi -->
+          <div class="col-md-4 mb-3">
+            <ul class="list-unstyled">
+              <li><a href="index.html" class="text-white text-decoration-none hover:text-warning">Beranda</a></li>
+              <li><a href="#" class="text-white text-decoration-none hover:text-warning">Tentang Kami</a></li>
+              <li><a href="article.html" class="text-white text-decoration-none hover:text-warning">Artikel</a></li>
+              <li><a href="#" class="text-white text-decoration-none hover:text-warning">Kontak</a></li>
+            </ul>
+          </div>
+
+          <!-- Kontak -->
+          <div class="col-md-4 mb-3">
+            <h5 class="font-bold mb-2">Kontak Kami</h5>
+            <p>Email: <a href="mailto:kersa.id@gmail.com" class="text-warning text-decoration-none">kersa.id@gmail.com</a></p>
+            <p>Telepon: <a href="tel:+620812345678" class="text-warning text-decoration-none">+62 0812 3456 78</a></p>
+            <div class="d-flex justify-content-center gap-3 mt-3">
+              <a href="#" class="text-white text-decoration-none hover:text-warning">Facebook</a>
+              <a href="#" class="text-white text-decoration-none hover:text-warning">Instagram</a>
+              <a href="#" class="text-white text-decoration-none hover:text-warning">Twitter</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
