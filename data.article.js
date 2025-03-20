@@ -19,7 +19,7 @@ window.onload = async function () {
                     htmlContent += `
                         <div class="col-12 col-md-6 col-lg-4">
                             <a href="${articles[j].link}" class="text-decoration-none">
-                                <div class="card">
+                                <div class="card touch-hover">
                                     <img src="${articles[j].image}" class="card-img-top" alt="${articles[j].title}">
                                     <div class="article-description p-3">
                                         <h3>${articles[j].title}</h3>
@@ -35,6 +35,18 @@ window.onload = async function () {
             }
 
             articleList.innerHTML = htmlContent;
+
+            // Menambahkan efek hover pada perangkat mobile
+            document.querySelectorAll('.touch-hover').forEach((card) => {
+                card.addEventListener('touchstart', function () {
+                    this.classList.add('hover');
+                });
+
+                card.addEventListener('touchend', function () {
+                    this.classList.remove('hover');
+                });
+            });
+
         } catch (error) {
             console.error(`Gagal memuat data untuk ${targetElementId}:`, error);
             articleList.innerHTML = `<p class="text-danger">Gagal memuat artikel.</p>`;
