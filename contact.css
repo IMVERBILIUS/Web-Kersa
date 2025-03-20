@@ -19,14 +19,11 @@ body {
 }
 
 .navbar1 {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
   padding: 20px 40px;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  z-index: 1000;
 }
 
 .navbar-logo {
@@ -45,23 +42,70 @@ body {
   color: var(--accentColor);
 }
 
-.navbar-menu {
+/* Navbar Menu Icon and Dropdown */
+.navbar-menu-container {
+  position: relative;
+}
+
+.navbar-menu-icon {
   font-size: 16px;
   font-weight: 300;
   cursor: pointer;
-  position: relative;
-  padding: 5px 10px;
-  border: 1px solid transparent;
+  padding: 8px 16px;
+  border: 1px solid var(--textColor);
+  border-radius: 3px;
   transition: all 0.3s ease;
 }
 
-.navbar-menu:hover {
-  border-bottom: 1px solid var(--textColor);
+.navbar-menu-icon:hover {
+  background-color: var(--textColor);
+  color: white;
+}
+
+.navbar-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  width: 200px;
+  background-color: white;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  padding: 10px 0;
+  display: none;
+  z-index: 1001;
+}
+
+.navbar-dropdown.active {
+  display: block;
+}
+
+.navbar-dropdown ul {
+  list-style: none;
+}
+
+.navbar-dropdown ul li {
+  padding: 8px 20px;
+  transition: all 0.2s ease;
+}
+
+.navbar-dropdown ul li:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+.navbar-dropdown ul li a {
+  color: var(--textColor);
+  text-decoration: none;
+  display: block;
+  transition: color 0.2s ease;
+}
+
+.navbar-dropdown ul li a:hover {
+  color: #f0ad4e;
 }
 
 .contact-container {
   min-height: 100vh;
-  padding: 120px 40px 60px;
+  padding: 20px 40px 60px;
   max-width: 1200px;
   margin: 0 auto;
 }

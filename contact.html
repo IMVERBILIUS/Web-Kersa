@@ -16,6 +16,17 @@
         <h1>KERSA</h1>
         <p>By Ankara Cipta</p>
       </div>
+      <div class="navbar-menu-container">
+        <div class="navbar-menu-icon" onclick="toggleMenu()">MENU</div>
+        <div class="navbar-dropdown" id="navbarDropdown">
+          <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="#">Tentang Kami</a></li>
+            <li><a href="article.html">Artikel</a></li>
+            <li><a href="#">Kontak</a></li>
+          </ul>
+        </div>
+      </div>
     </nav>
 
     <!-- Contact Section -->
@@ -87,7 +98,7 @@
             <p>Email: <a href="mailto:kersa.id@gmail.com" class="text-warning text-decoration-none">kersa.id@gmail.com</a></p>
             <p>Telepon: <a href="tel:+620812345678" class="text-warning text-decoration-none">+62 0812 3456 78</a></p>
             <div class="d-flex justify-content-center gap-3 mt-3">
-              <a href="#" class="text-white text-decoration-none hover:text-warning">Facebook</a>
+              <a href="#" class="text-white text-decoration-none hover:text-warning">LinkedIn</a>
               <a href="#" class="text-white text-decoration-none hover:text-warning">Instagram</a>
               <a href="#" class="text-white text-decoration-none hover:text-warning">Twitter</a>
             </div>
@@ -95,5 +106,21 @@
         </div>
       </div>
     </footer>
+    <script>
+      function toggleMenu() {
+        const dropdown = document.getElementById("navbarDropdown");
+        dropdown.classList.toggle("active");
+      }
+
+      // Close the dropdown when clicking outside
+      window.onclick = function (event) {
+        if (!event.target.matches(".navbar-menu-icon")) {
+          const dropdown = document.getElementById("navbarDropdown");
+          if (dropdown.classList.contains("active")) {
+            dropdown.classList.remove("active");
+          }
+        }
+      };
+    </script>
   </body>
 </html>
