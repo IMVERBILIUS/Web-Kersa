@@ -1,547 +1,857 @@
 [
-    {
-      "id": 1,
-      "title": "Green Design, Sustainable Design, dan Eco-Design Konsep untuk Masa Depan Ramah Lingkungan",
-      "description": "Penjelasan tentang perbedaan konsep Green Design, Sustainable Design, dan Eco-Design yang berfokus pada aspek lingkungan, sosial, dan ekonomi dalam menciptakan desain berkelanjutan",
-      "category": "Artikel",
-      "image": "image/artikel-5.png",
-      "author": "Arsya Rivaldo",
-      "published_date": "2025-0-19",
-      "link": "detail.html?id=1",
-        "content": [
-          {
-            "section_title": "",
-            "paragraphs": [
-              "Dalam era modern ini, kesadaran akan pentingnya menjaga kelestarian lingkungan semakin meningkat.",
-              "Salah satu bentuk nyata dari kesadaran ini terlihat dari banyaknya pendekatan dalam dunia desain yang mengutamakan keberlanjutan.",
-              "Di antara berbagai istilah yang populer digunakan, tiga konsep yang sering muncul adalah Green Design, Sustainable Design, dan Eco-Design.",
-              "Meskipun ketiganya memiliki tujuan serupa, yaitu menciptakan masa depan yang lebih baik bagi lingkungan, ketiganya memiliki fokus dan implementasi yang berbeda."
-            ]
-          },
-          {
-            "section_title": "1. Green Design: Fokus pada Aspek Lingkungan",
-            "paragraphs": [
-              "Green design atau desain hijau adalah pendekatan desain yang secara langsung menitikberatkan pada aspek ekologis dan lingkungan.",
-              "Prinsip utama dalam green design adalah bagaimana menciptakan produk atau bangunan yang meminimalkan dampak negatif terhadap alam.",
-              "Dalam praktiknya, green design sering diterapkan melalui penggunaan bahan-bahan yang ramah lingkungan.",
-              "Misalnya, dalam dunia arsitektur, penerapan green design bisa dilihat dari pemilihan material konstruksi yang rendah kandungan zat berbahaya seperti formaldehida atau senyawa organik volatil (VOC).",
-              "Selain itu, penggunaan sumber energi terbarukan seperti panel surya, pengelolaan air secara efisien, serta memanfaatkan pencahayaan alami juga menjadi bagian dari prinsip ini.",
-              "Namun, penerapan green design tidak bersifat universal. Konsep ini sangat dipengaruhi oleh kondisi geografis, budaya lokal, iklim, serta ketersediaan sumber daya di suatu daerah."
-            ]
-          },
-          {
-            "section_title": "2. Sustainable Design: Menyelaraskan Lingkungan, Sosial, dan Ekonomi",
-            "paragraphs": [
-              "Berbeda dari green design yang fokus utamanya pada lingkungan, sustainable design atau desain berkelanjutan memiliki cakupan yang lebih luas.",
-              "Sustainable design memperhatikan tidak hanya aspek ekologis, tetapi juga aspek sosial dan ekonomi dalam setiap proses perancangannya.",
-              "Tiga pilar utama dalam sustainable design dikenal sebagai People (manusia), Planet (lingkungan), dan Profit (keuntungan).",
-              "Dalam konteks pembangunan sebuah bangunan, misalnya, bukan hanya sekedar menggunakan bahan yang ramah lingkungan, tetapi juga memastikan proses pembangunan melibatkan pekerja dengan kondisi kerja yang layak, serta menghasilkan manfaat ekonomi yang berkelanjutan bagi masyarakat sekitar.",
-              "Contoh nyata dari penerapan konsep ini bisa dilihat pada industri pengolahan kayu.",
-              "Sustainable design tidak hanya mempertimbangkan apakah kayu tersebut ramah lingkungan, tetapi juga bagaimana proses produksinya berjalan."
-            ]
-          },
-          {
-            "section_title": "3. Eco-Design: Kunci Menuju Ekonomi Sirkular",
-            "paragraphs": [
-              "Eco-design atau desain ekologis memiliki kesamaan dengan sustainable design karena sama-sama mempertimbangkan aspek lingkungan, sosial, dan ekonomi.",
-              "Namun, eco-design lebih menitikberatkan pada proses produksi, distribusi, hingga siklus hidup produk secara menyeluruh.",
-              "Salah satu prinsip utama dalam eco-design adalah meminimalisir penggunaan material, menciptakan produk yang tahan lama, serta memastikan produk tersebut mudah untuk didaur ulang atau digunakan kembali.",
-              "Dengan demikian, eco-design menjadi salah satu fondasi utama dalam mendukung konsep ekonomi sirkular, di mana produk tidak berakhir menjadi limbah, melainkan terus digunakan dalam siklus produksi."
-            ]
-          },
-          {
-            "section_title": "",
-            "paragraphs": [
-              "Meskipun memiliki titik fokus yang berbeda, ketiga konsep ini memiliki tujuan akhir yang sama: menciptakan dunia yang lebih baik, sehat, dan berkelanjutan.",
-              "Green design berfokus pada pengurangan dampak lingkungan melalui pemilihan material dan efisiensi energi.",
-              "Sustainable design mengintegrasikan aspek sosial, lingkungan, dan ekonomi untuk menciptakan desain yang bermanfaat dalam jangka panjang.",
-              "Eco-design memastikan bahwa produk dan proses produksi tidak hanya ramah lingkungan, tetapi juga efisien, tahan lama, serta mendukung prinsip ekonomi sirkular."
-            ]
-          }
+  {
+    "id": 1,
+    "title": "Green Design, Sustainable Design, dan Eco-Design Konsep untuk Masa Depan Ramah Lingkungan",
+    "description": "Penjelasan tentang perbedaan konsep Green Design, Sustainable Design, dan Eco-Design yang berfokus pada aspek lingkungan, sosial, dan ekonomi dalam menciptakan desain berkelanjutan",
+    "category": "Artikel",
+    "image": "image/artikel-5.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2025-0-19",
+    "link": "detail.html?id=1",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Dalam era modern ini, kesadaran akan pentingnya menjaga kelestarian lingkungan semakin meningkat.",
+          "Salah satu bentuk nyata dari kesadaran ini terlihat dari banyaknya pendekatan dalam dunia desain yang mengutamakan keberlanjutan.",
+          "Di antara berbagai istilah yang populer digunakan, tiga konsep yang sering muncul adalah Green Design, Sustainable Design, dan Eco-Design.",
+          "Meskipun ketiganya memiliki tujuan serupa, yaitu menciptakan masa depan yang lebih baik bagi lingkungan, ketiganya memiliki fokus dan implementasi yang berbeda."
         ]
-      
-      
       },
       {
-        "id": 2,
-        "title": "Eco-Design Solusi Desain Ramah Lingkungan ",
-        "category": "Artikel",
-        "description": "Eco-design adalah pendekatan desain yang berfokus pada pengurangan dampak lingkungan melalui efisiensi energi, penggunaan bahan ramah lingkungan, dan peningkatan daya tahan produk.",
-        "image": "image/artikel-6.png",
-        "author": "Arsya Rivaldo",
-        "published_date": "2025-03-19",
-        "link": "detail.html?id=2",
-      
-          "content": [
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Di tengah meningkatnya kesadaran akan pentingnya menjaga kelestarian bumi, berbagai pendekatan desain muncul sebagai upaya mengurangi kerusakan lingkungan. Salah satu pendekatan paling efektif adalah eco-design. Istilah ini merujuk pada metode perancangan produk atau bangunan dengan mempertimbangkan dampak lingkungan sejak tahap awal hingga akhir siklus hidup produk. Artikel ini akan mengulas prinsip, manfaat, serta tantangan dalam penerapan eco-design."
-              ]
-            },
-            {
-              "section_title": "Apa Itu Eco-Design?",
-              "paragraphs": [
-                "Eco-design, atau desain ekologis, merupakan strategi desain yang menempatkan aspek lingkungan sebagai pertimbangan utama. Bukan sekadar membuat produk yang menarik, namun lebih jauh memastikan produk tersebut ramah lingkungan mulai dari pemilihan bahan baku, proses produksi, penggunaan, hingga pada tahap pembuangan atau daur ulang.",
-                "Inti dari eco-design terletak pada pengurangan penggunaan sumber daya alam yang tidak terbarukan, meminimalkan emisi dan limbah, serta memastikan produk dapat digunakan kembali atau didaur ulang. Tidak hanya itu, eco-design juga memperhatikan nilai sosial, ekonomi, dan budaya yang berkelanjutan, memberikan dampak positif bagi masyarakat luas."
-              ]
-            },
-            {
-              "section_title": "Prinsip-Prinsip Utama Eco-Design",
-              "paragraphs": [
-                "1. Efisiensi Penggunaan Bahan Baku: Produk dirancang untuk mengoptimalkan penggunaan bahan. Ini meliputi pengurangan berat produk, pemilihan material yang membutuhkan sedikit energi dalam proses produksinya, hingga menciptakan desain minimalis tanpa mengurangi fungsi produk.",
-                "2. Penggunaan Material Ramah Lingkungan: Prinsip ini mengedepankan penggunaan bahan yang bisa didaur ulang, mudah terurai secara alami (biodegradable), atau bahan dengan jejak karbon rendah.",
-                "3. Daya Tahan Produk yang Lebih Lama: Produk yang dirancang tahan lama mengurangi kebutuhan produksi barang baru. Ini secara langsung menekan konsumsi sumber daya alam, serta mengurangi volume limbah di tempat pembuangan akhir.",
-                "4. Kemudahan Daur Ulang dan Perbaikan: Eco-design mendorong produk yang mudah dibongkar, diperbaiki, atau diubah menjadi komponen lain. Dengan demikian, masa pakai produk bisa diperpanjang dan mengurangi limbah elektronik atau sampah plastik.",
-                "5. Efisiensi Energi: Produk dirancang untuk meminimalkan konsumsi energi, baik dalam proses produksi maupun selama digunakan oleh konsumen.",
-                "6. Pengurangan Polusi dan Emisi: Seluruh siklus hidup produk—dari bahan baku, proses manufaktur, penggunaan, hingga pembuangan—dirancang untuk meminimalkan limbah, polusi udara dan air, serta emisi gas rumah kaca.",
-                "7. Multifungsi dan Optimalisasi Produk: Salah satu cara meningkatkan efisiensi adalah merancang produk dengan beberapa fungsi dalam satu unit."
-              ]
-            },
-            {
-              "section_title": "Manfaat Penerapan Eco-Design",
-              "paragraphs": [
-                "1. Mengurangi Dampak Lingkungan: Penerapan eco-design memberikan kontribusi besar terhadap pelestarian lingkungan.",
-                "2. Efisiensi Biaya Jangka Panjang: Penggunaan bahan baku efisien, pengurangan limbah, serta efisiensi energi menekan biaya operasional secara keseluruhan.",
-                "3. Meningkatkan Citra Perusahaan: Di tengah konsumen yang semakin peduli terhadap isu lingkungan, perusahaan yang menerapkan eco-design memiliki keunggulan kompetitif.",
-                "4. Kepatuhan Terhadap Regulasi Lingkungan: Pemerintah di berbagai negara semakin ketat memberlakukan regulasi terkait pengurangan emisi dan pengelolaan limbah.",
-                "5. Inovasi Produk: Eco-design mendorong munculnya inovasi baru dalam desain produk."
-              ]
-            },
-            {
-              "section_title": "Tantangan dalam Penerapan Eco-Design",
-              "paragraphs": [
-                "Biaya Awal Tinggi: Pengembangan produk ramah lingkungan seringkali memerlukan investasi awal untuk penelitian material baru atau teknologi produksi yang lebih efisien.",
-                "Kesulitan Mendapatkan Bahan Baku Ramah Lingkungan: Di beberapa wilayah, akses terhadap material daur ulang atau bahan alami mungkin masih terbatas.",
-                "Kurangnya Kesadaran Konsumen: Tidak semua konsumen memiliki kesadaran tinggi terhadap pentingnya produk berkelanjutan, sehingga perlu edukasi berkelanjutan.",
-                "Kompleksitas Desain: Merancang produk dengan berbagai pertimbangan lingkungan seringkali membutuhkan waktu dan proses yang lebih rumit dibanding produk biasa."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Eco-design adalah solusi penting dalam upaya mewujudkan masa depan berkelanjutan. Dengan mengedepankan prinsip efisiensi energi, penggunaan bahan ramah lingkungan, serta memperhatikan aspek sosial dan ekonomi, pendekatan ini tidak hanya mengurangi dampak buruk terhadap lingkungan tetapi juga mendorong inovasi serta efisiensi bisnis. Implementasi eco-design menjadi langkah nyata untuk menghadapi tantangan lingkungan global saat ini. Dukungan dari semua pihak, baik pemerintah, produsen, maupun konsumen, sangat penting agar konsep ini dapat diterapkan secara luas dan memberikan manfaat maksimal bagi bumi kita."
-              ]
-            }
-          ]
-        }
-        
-      ,{
-        "id": 3,
-        "title": "Tips Praktis Menerapkan Eco-Design pada Hunian Ramah Lingkungan",
-        "description": "Eco-design adalah konsep hunian ramah lingkungan yang mengutamakan efisiensi energi, penggunaan material berkelanjutan, dan keseimbangan alam tanpa mengorbankan estetika dan kenyamanan.",
-        "category": "berita",
-        "image": "image/artikel-7.png",
-        "author": "Arsya Rivaldo",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=3",
-      
-          "content": [
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Dalam merancang sebuah hunian, banyak orang cenderung mengutamakan aspek estetika dan fungsi tanpa mempertimbangkan dampak lingkungannya. Padahal, konsep eco-design tidak hanya menjaga kelestarian alam, tetapi juga tetap bisa menghadirkan keindahan dan kenyamanan di rumah.",
-                "Eco-design berfokus pada penggunaan energi secara efisien, pengurangan limbah, serta pemanfaatan material ramah lingkungan."
-              ]
-            },
-            {
-              "section_title": "Langkah-Langkah Eco-Design",
-              "paragraphs": []
-            },
-            {
-              "section_title": "1. Memaksimalkan Bukaan dan Ventilasi Alami",
-              "paragraphs": [
-                "Salah satu cara paling efektif dalam menerapkan eco-design di rumah adalah dengan memperbanyak bukaan seperti jendela dan ventilasi. Penggunaan pencahayaan alami di siang hari dapat mengurangi kebutuhan lampu, sekaligus meminimalkan penggunaan pendingin ruangan (AC) karena sirkulasi udara lebih optimal. Hasilnya, konsumsi listrik bisa ditekan, serta ruangan terasa lebih sehat dan segar."
-               ]
-            },
-
-            {
-              "section_title": "2. Menggunakan Furniture dari Material Daur Ulang",
-              "paragraphs": [
-                " Salah satu prinsip eco-design adalah memanfaatkan barang-barang bekas yang masih layak pakai untuk menjadi sesuatu yang baru dan bermanfaat. Anda bisa memanfaatkan kayu palet bekas, ban mobil, atau limbah industri lain sebagai bahan pembuatan meja, kursi, atau rak di rumah. Selain mengurangi limbah, penggunaan material daur ulang juga memberi nilai estetika unik dan personal pada interior rumah Anda."
-              ]
-            },
-            {
-              "section_title": "3. Memperbanyak Area Hijau di Dalam dan Luar Rumah",
-              "paragraphs": [
-                " Eco-design sangat erat kaitannya dengan kehadiran ruang hijau. Tanaman di dalam rumah tidak hanya berfungsi sebagai elemen dekoratif, tetapi juga membantu meningkatkan kualitas udara dan menciptakan keseimbangan lingkungan mikro di dalam hunian."
-              ]
-            },
-            {
-              "section_title": "4. Mengelola Sampah dengan Bijak",
-              "paragraphs": [
-                "Penerapan eco-design juga menekankan pentingnya pengelolaan limbah rumah tangga. Mulailah dengan memisahkan sampah organik dan anorganik, serta memanfaatkan sampah organik sebagai kompos untuk tanaman. Sedangkan sampah anorganik seperti plastik dan kertas dapat didaur ulang menjadi barang-barang fungsional atau disalurkan ke bank sampah."
-               ]
-            },
-            {
-              "section_title": "5. Menggunakan Material Bangunan Lokal dan Ramah Lingkungan",
-              "paragraphs": [
-                " Saat membangun atau merenovasi rumah, pertimbangkan penggunaan material lokal yang memiliki jejak karbon rendah. Material seperti batu bata lokal, kayu dari hutan yang dikelola berkelanjutan, atau bambu adalah pilihan bijak yang mendukung konsep eco-design."
-             ]
-            },
-            {
-              "section_title": "6 Memanfaatkan Teknologi Hemat Energi",
-              "paragraphs": [
-    " Teknologi juga bisa membantu mewujudkan hunian ramah lingkungan. Pilih peralatan rumah tangga yang memiliki sertifikat hemat energi, seperti lampu LED, kulkas inverter, dan perangkat elektronik lainnya yang memiliki konsumsi daya rendah."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Menerapkan konsep eco-design di hunian bukanlah sesuatu yang sulit atau mahal. Dengan langkah-langkah sederhana seperti memaksimalkan pencahayaan alami, menggunakan furniture daur ulang, memperbanyak ruang hijau, serta bijak dalam penggunaan energi dan material, setiap orang bisa ikut serta menjaga kelestarian bumi.",
-                "Selain berdampak positif bagi lingkungan, penerapan eco-design juga menciptakan hunian yang sehat, nyaman, dan estetis."
-              ]
-            }
-          ]
-        }
-        ,
-      {
-        "id": 4,
-        "title": "Konsep Green Design Solusi Interior Estetik",
-        "description": "Desain interior hijau adalah konsep yang menggabungkan estetika dengan prinsip ramah lingkungan untuk menciptakan ruang hidup yang sehat, hemat energi, dan berkelanjutan.",
-        "category": "Artikel",
-        "image": "image/artikel-8.png",
-        "author": "Arsya Rivaldo",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=4",
-        
-          "content": [
-            {
-              "section_title": "Desain Interior Hijau",
-              "paragraphs": [
-                "Di tengah meningkatnya kesadaran akan pentingnya menjaga kelestarian lingkungan, konsep desain interior hijau atau green design semakin mendapatkan perhatian. Desain ini tidak sekadar soal estetika, melainkan juga tentang menciptakan ruang hidup yang sehat, hemat energi, serta minim dampak negatif bagi bumi.",
-                "Pada intinya, desain interior hijau menggabungkan prinsip-prinsip ramah lingkungan dalam setiap elemen ruang. Tujuannya adalah menciptakan harmoni antara manusia dan alam, di mana fungsi ruang tetap maksimal, namun tidak mengabaikan keberlanjutan ekosistem."
-              ]
-            },
-            {
-              "section_title": "Prinsip Utama Desain Interior Hijau",
-              "paragraphs": [
-                "Penggunaan Material Ramah Lingkungan: Material yang digunakan dalam desain hijau berasal dari sumber alami, terbarukan, atau hasil daur ulang. Kayu bersertifikat legal, bambu, batu alam, hingga kain organik menjadi pilihan utama karena tidak merusak lingkungan dan dapat terurai secara alami.",
-                "Efisiensi Energi: Desain interior hijau sangat memperhatikan penggunaan energi. Pengaturan tata letak ruangan, ventilasi, dan bukaan cahaya dioptimalkan agar meminimalisir kebutuhan listrik untuk pencahayaan dan pendinginan ruangan. Perangkat elektronik hemat energi juga menjadi elemen penting dalam konsep ini.",
-                "Pencahayaan dan Ventilasi Alami: Pemanfaatan cahaya matahari secara maksimal menjadi salah satu ciri khas desain ini. Dengan mengatur posisi jendela dan skylight, ruangan akan mendapatkan pencahayaan alami yang cukup, sekaligus mengurangi konsumsi energi listrik. Sirkulasi udara yang baik juga dijaga agar kualitas udara dalam ruangan tetap sehat.",
-                "Furnitur Berkelanjutan: Pemilihan furnitur tidak hanya didasarkan pada tampilan, tetapi juga asal-usul bahan, proses produksi, dan ketahanannya. Furnitur dari bahan daur ulang atau produksi lokal yang mengedepankan prinsip ramah lingkungan menjadi bagian penting dari desain ini.",
-                "Minimalkan Limbah: Desain hijau mendorong pemilik rumah atau bangunan untuk mengurangi limbah sejak proses pembangunan hingga penggunaan sehari-hari. Salah satunya dengan menerapkan konsep reduce, reuse, recycle dalam pemilihan material maupun barang-barang dekoratif."
-              ]
-            },
-            {
-              "section_title": "Manfaat Desain Interior Hijau",
-              "paragraphs": [
-                "Kesehatan Penghuni Terjaga: Material alami cenderung bebas zat kimia berbahaya seperti formaldehida. Sirkulasi udara yang baik juga membuat kualitas udara dalam ruangan lebih bersih, mengurangi risiko alergi atau gangguan pernapasan.",
-                "Hemat Biaya Jangka Panjang: Meski biaya awal untuk menerapkan desain hijau bisa sedikit lebih tinggi, efisiensi energi serta penggunaan material tahan lama akan mengurangi pengeluaran rutin seperti tagihan listrik dan biaya perawatan.",
-                "Mengurangi Jejak Karbon: Dengan memanfaatkan bahan-bahan lokal dan daur ulang, serta meminimalisir penggunaan energi, desain ini membantu menekan jumlah emisi karbon yang dihasilkan dari aktivitas sehari-hari.",
-                "Estetika yang Natural dan Nyaman: Desain hijau identik dengan kesan natural, sederhana, namun tetap elegan. Ruang yang dihasilkan terasa lebih segar, hangat, dan nyaman untuk dihuni."
-              ]
-            },
-            {
-              "section_title": "Contoh Penerapan Desain Interior Hijau",
-              "paragraphs": [
-                "Rumah dengan banyak bukaan kaca untuk pencahayaan alami, meminimalisir penggunaan lampu di siang hari.",
-                "Kafe atau restoran yang menggunakan furnitur dari kayu daur ulang dan dekorasi tanaman hidup.",
-                "Kantor yang menerapkan konsep open space dengan ventilasi silang, mengurangi kebutuhan AC.",
-                "Hotel yang menyediakan perabotan berbahan ramah lingkungan serta mengutamakan produk lokal."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Desain interior hijau adalah wujud komitmen terhadap kehidupan yang lebih berkelanjutan. Dengan mengutamakan keseimbangan antara kenyamanan ruang dan kelestarian alam, konsep ini tidak hanya memberikan manfaat bagi lingkungan, tetapi juga meningkatkan kualitas hidup penghuninya. Melalui langkah sederhana seperti pemilihan material alami, efisiensi energi, dan pengelolaan limbah yang bijak, setiap individu dapat ikut berkontribusi dalam menjaga bumi."
-              ]
-            }
-          ]
-        
-        
+        "section_title": "1. Green Design: Fokus pada Aspek Lingkungan",
+        "paragraphs": [
+          "Green design atau desain hijau adalah pendekatan desain yang secara langsung menitikberatkan pada aspek ekologis dan lingkungan.",
+          "Prinsip utama dalam green design adalah bagaimana menciptakan produk atau bangunan yang meminimalkan dampak negatif terhadap alam.",
+          "Dalam praktiknya, green design sering diterapkan melalui penggunaan bahan-bahan yang ramah lingkungan.",
+          "Misalnya, dalam dunia arsitektur, penerapan green design bisa dilihat dari pemilihan material konstruksi yang rendah kandungan zat berbahaya seperti formaldehida atau senyawa organik volatil (VOC).",
+          "Selain itu, penggunaan sumber energi terbarukan seperti panel surya, pengelolaan air secara efisien, serta memanfaatkan pencahayaan alami juga menjadi bagian dari prinsip ini.",
+          "Namun, penerapan green design tidak bersifat universal. Konsep ini sangat dipengaruhi oleh kondisi geografis, budaya lokal, iklim, serta ketersediaan sumber daya di suatu daerah."
+        ]
       },
       {
-        "id": 5,
-        "title": "Pentingnya Arsitektur Hijau dalam Pembangunan Berkelanjutan",
-        "description": "Arsitektur hijau adalah pendekatan desain bangunan yang ramah lingkungan, berkelanjutan, dan memberikan manfaat ekologis, ekonomi, serta kesehatan bagi manusia.",
-        "category": "Artikel",
-        "image": "image/artikel-9.png",
-        "author": "Arsya Rivaldo",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=5",
-        
-          "content": [
-            {
-              "section_title": "Pentingnya Arsitektur Hijau",
-              "paragraphs": [
-                "Di era modern yang serba cepat dan penuh tantangan lingkungan, konsep arsitektur hijau menjadi semakin relevan dan krusial. Penerapan prinsip-prinsip ramah lingkungan dalam desain dan konstruksi bangunan tidak hanya berdampak positif bagi lingkungan, tetapi juga memberikan manfaat besar bagi manusia, baik secara kesehatan, ekonomi, maupun sosial."
-              ]
-            },
-            {
-              "section_title": "Tokoh dan Pendapat Ahli",
-              "paragraphs": [
-                "Wiza Hidayat menekankan bahwa bumi adalah amanah yang harus dijaga. Bangunan menjadi sektor penting yang dapat berkontribusi signifikan dalam mengurangi emisi karbon.",
-                "Georgius Budi Yulianto menyoroti bahwa arsitektur hijau harus menjadi bagian dari gaya hidup masyarakat, bukan sekadar tren.",
-                "Reza A. Nurtjahja menilai bahwa kepedulian lingkungan harus menjadi prinsip dasar dalam rancangan bangunan.",
-                "Ngakan Ketut Acwin Dwijendra menegaskan bahwa pembangunan dengan konsep hijau adalah sebuah keharusan demi masa depan yang berkelanjutan."
-              ]
-            },
-            {
-              "section_title": "Manfaat Arsitektur Hijau",
-              "paragraphs": [
-                "Mengurangi Dampak Lingkungan: Bangunan hijau dirancang untuk meminimalisir konsumsi energi, air, serta bahan bangunan yang merusak alam.",
-                "Efisiensi Biaya Jangka Panjang: Walau biaya awal lebih tinggi, bangunan hijau menghemat biaya operasional dalam jangka panjang.",
-                "Meningkatkan Kesehatan Penghuni: Desain bangunan hijau memperhatikan kualitas udara, pencahayaan alami, dan kenyamanan termal.",
-                "Meningkatkan Nilai Properti: Bangunan bersertifikat hijau memiliki daya tarik yang lebih tinggi di pasar properti.",
-                "Kontribusi terhadap Penanganan Perubahan Iklim: Bangunan hijau membantu menekan emisi gas rumah kaca."
-              ]
-            },
-            {
-              "section_title": "Contoh Penerapan Bangunan Hijau",
-              "paragraphs": [
-                "Bullitt Center di Seattle: Menggunakan 100% energi terbarukan dan memiliki sistem pengelolaan air yang efisien.",
-                "Bosco Verticale di Milan: Dihiasi dengan ribuan pohon yang membantu menyerap karbon dioksida dan menghasilkan oksigen.",
-                "Marina Bay Sands di Singapura: Menerapkan sistem pengelolaan air hujan, panel surya, dan taman hijau di atas atap.",
-                "Gedung DPR di Jakarta: Memanfaatkan panel surya, material ramah lingkungan, dan desain yang memperhatikan efisiensi energi."
-              ]
-            },
-            {
-              "section_title": "Perkembangan Tren Bangunan Hijau di Indonesia",
-              "paragraphs": [
-                "Di Indonesia, khususnya Jakarta, tren pembangunan gedung hijau terus meningkat seiring dengan kesadaran akan pentingnya penerapan prinsip berkelanjutan.",
-                "Luas lantai gedung bersertifikat hijau kini mencapai lebih dari 1 juta meter persegi, didorong oleh prinsip ESG yang banyak diadopsi perusahaan."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Arsitektur hijau adalah keharusan dalam menghadapi tantangan global seperti perubahan iklim dan krisis energi.",
-                "Dengan kesadaran kolektif dan komitmen yang kuat, kita dapat menciptakan lingkungan yang nyaman, efisien, dan berkontribusi positif terhadap bumi."
-              ]
-            }
-          ]
-        },
-        {
-          "id": 6,
-          "title": "Tren Arsitektur Berkelanjutan yang Semakin Menguat di 2025",
-          "description": "Green building adalah konsep arsitektur berkelanjutan yang memadukan efisiensi energi, material ramah lingkungan, dan kenyamanan penghuni untuk menciptakan bangunan yang lebih sehat dan hemat biaya operasional.",
-          "category": "Artikel",
-          "image": "image/artikel-10.png",
-          "author": "Arsya Rivaldo",
-          "published_date": "2024-03-19",
-          "link": "detail.html?id=6",
+        "section_title": "2. Sustainable Design: Menyelaraskan Lingkungan, Sosial, dan Ekonomi",
+        "paragraphs": [
+          "Berbeda dari green design yang fokus utamanya pada lingkungan, sustainable design atau desain berkelanjutan memiliki cakupan yang lebih luas.",
+          "Sustainable design memperhatikan tidak hanya aspek ekologis, tetapi juga aspek sosial dan ekonomi dalam setiap proses perancangannya.",
+          "Tiga pilar utama dalam sustainable design dikenal sebagai People (manusia), Planet (lingkungan), dan Profit (keuntungan).",
+          "Dalam konteks pembangunan sebuah bangunan, misalnya, bukan hanya sekedar menggunakan bahan yang ramah lingkungan, tetapi juga memastikan proses pembangunan melibatkan pekerja dengan kondisi kerja yang layak, serta menghasilkan manfaat ekonomi yang berkelanjutan bagi masyarakat sekitar.",
+          "Contoh nyata dari penerapan konsep ini bisa dilihat pada industri pengolahan kayu.",
+          "Sustainable design tidak hanya mempertimbangkan apakah kayu tersebut ramah lingkungan, tetapi juga bagaimana proses produksinya berjalan."
+        ]
+      },
+      {
+        "section_title": "3. Eco-Design: Kunci Menuju Ekonomi Sirkular",
+        "paragraphs": [
+          "Eco-design atau desain ekologis memiliki kesamaan dengan sustainable design karena sama-sama mempertimbangkan aspek lingkungan, sosial, dan ekonomi.",
+          "Namun, eco-design lebih menitikberatkan pada proses produksi, distribusi, hingga siklus hidup produk secara menyeluruh.",
+          "Salah satu prinsip utama dalam eco-design adalah meminimalisir penggunaan material, menciptakan produk yang tahan lama, serta memastikan produk tersebut mudah untuk didaur ulang atau digunakan kembali.",
+          "Dengan demikian, eco-design menjadi salah satu fondasi utama dalam mendukung konsep ekonomi sirkular, di mana produk tidak berakhir menjadi limbah, melainkan terus digunakan dalam siklus produksi."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Meskipun memiliki titik fokus yang berbeda, ketiga konsep ini memiliki tujuan akhir yang sama: menciptakan dunia yang lebih baik, sehat, dan berkelanjutan.",
+          "Green design berfokus pada pengurangan dampak lingkungan melalui pemilihan material dan efisiensi energi.",
+          "Sustainable design mengintegrasikan aspek sosial, lingkungan, dan ekonomi untuk menciptakan desain yang bermanfaat dalam jangka panjang.",
+          "Eco-design memastikan bahwa produk dan proses produksi tidak hanya ramah lingkungan, tetapi juga efisien, tahan lama, serta mendukung prinsip ekonomi sirkular."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Eco-Design Solusi Desain Ramah Lingkungan ",
+    "category": "Artikel",
+    "description": "Eco-design adalah pendekatan desain yang berfokus pada pengurangan dampak lingkungan melalui efisiensi energi, penggunaan bahan ramah lingkungan, dan peningkatan daya tahan produk.",
+    "image": "image/artikel-6.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2025-03-19",
+    "link": "detail.html?id=2",
 
-            "content": [
-              {
-                "section_title": "Perkembangan Green Building di 2025",
-                "paragraphs": [
-                  "Perkembangan dunia arsitektur terus bergerak seiring meningkatnya kesadaran global terhadap isu lingkungan. Di tahun 2025, konsep green building atau bangunan hijau diprediksi akan tetap menjadi salah satu tren utama dalam dunia desain dan konstruksi. Hal ini tidak terlepas dari kebutuhan untuk menciptakan lingkungan binaan yang efisien, nyaman, dan ramah bagi alam maupun penghuninya."
-                ]
-              },
-              {
-                "section_title": "Mengapa Konsep Green Building Kian Diminati",
-                "paragraphs": [
-                  "Kesadaran Terhadap Krisis Lingkungan: Perubahan iklim, polusi udara, serta keterbatasan sumber daya alam mendorong arsitek, pengembang properti, dan masyarakat luas untuk mencari solusi yang berkelanjutan. Bangunan hijau menjadi salah satu jawaban konkret untuk mengurangi dampak negatif terhadap bumi.",
-                  "Teknologi yang Semakin Mendukung: Kemajuan teknologi telah menghadirkan berbagai inovasi yang mempermudah penerapan green building. Mulai dari penggunaan panel surya, sistem pengelolaan air hujan, hingga smart system untuk mengontrol pencahayaan dan pendinginan secara otomatis demi efisiensi energi.",
-                  "Efisiensi Biaya Operasional: Meski pembangunan bangunan hijau memerlukan investasi awal lebih tinggi, namun penghematan energi, air, serta biaya perawatan jangka panjang membuat konsep ini semakin menarik secara finansial.",
-                  "Kesehatan & Kenyamanan Penghuni: Bangunan hijau dirancang untuk memaksimalkan pencahayaan alami, ventilasi silang, serta menggunakan material bebas bahan beracun. Hasilnya, kualitas udara di dalam ruangan lebih baik, suhu stabil, dan penghuni merasa lebih sehat serta produktif."
-                ]
-              },
-              {
-                "section_title": "Elemen-Elemen Kunci Green Building",
-                "paragraphs": [
-                  "Material Ramah Lingkungan: Penggunaan bahan lokal, daur ulang, atau material dengan sertifikasi keberlanjutan sangat dianjurkan. Misalnya, kayu bersertifikat FSC, batu alam, serta cat dengan emisi VOC rendah.",
-                  "Efisiensi Energi: Desain bangunan disesuaikan untuk meminimalkan kebutuhan listrik, dengan memanfaatkan pencahayaan alami, pemasangan panel surya, dan penggunaan alat elektronik hemat energi.",
-                  "Sistem Pengelolaan Air: Penerapan teknologi untuk mengumpulkan dan mengolah air hujan, serta penggunaan alat hemat air seperti kran otomatis dan toilet dual flush, menjadi bagian dari strategi penghematan air.",
-                  "Pengelolaan Limbah Konstruksi: Green building juga memperhatikan proses pembangunan agar minim limbah. Bahan-bahan sisa konstruksi dipilah untuk didaur ulang, bukan langsung dibuang ke tempat pembuangan akhir."
-                ]
-              },
-              {
-                "section_title": "Prediksi Tren Green Building di 2025",
-                "paragraphs": [
-                  "Integrasi Smart Technology: Penggunaan sensor otomatis untuk mengatur pencahayaan, suhu ruangan, hingga keamanan bangunan akan menjadi standar dalam green building, demi efisiensi energi yang lebih optimal.",
-                  "Penggunaan Material Inovatif: Material hasil riset terbaru, seperti beton rendah karbon, panel surya transparan, hingga cat yang mampu menyerap polusi, akan semakin banyak digunakan.",
-                  "Desain Biophilic: Penerapan elemen alami ke dalam bangunan seperti taman vertikal, rooftop garden, serta kolam resapan akan menjadi elemen wajib untuk menciptakan keseimbangan ekosistem di lingkungan perkotaan.",
-                  "Sertifikasi Bangunan Hijau: Permintaan terhadap bangunan dengan sertifikasi seperti EDGE, LEED, atau Greenship diperkirakan meningkat, karena menjadi daya tarik utama bagi investor maupun penghuni yang peduli lingkungan."
-                ]
-              },
-              {
-                "section_title": "",
-                "paragraphs": [
-                  "Green building bukan sekadar tren arsitektur sesaat, melainkan sebuah kebutuhan yang terus berkembang demi menjawab tantangan global. Tahun 2025 diprediksi akan menjadi momen penting bagi semakin meluasnya penerapan prinsip-prinsip bangunan hijau, baik."
-                ]
-              }
-            ]
-          }
-          ,
+    "content": [
       {
-        "id": 7,
-        "title": "Rumah Minimalis Sejuk dan Ramah Lingkungan: 7 Inspirasi Desain Modern",
-        "description": "Inspirasi desain rumah minimalis yang mengutamakan kesederhanaan, kenyamanan, dan harmoni dengan alam untuk menciptakan hunian yang sejuk, fungsional, dan ramah lingkungan.",
-        "category": "Artikel",
-        "image": "image/artikel-11.png",
-        "author": "Muhammad Ilham",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=7",
-          "content": [
-            {
-              "section_title": "Rumah Satu Lantai dengan Taman Terbuka",
-              "paragraphs": [
-                "Hunian satu lantai dengan taman di sekelilingnya memberikan kesan lapang. Tanaman di pekarangan membantu menurunkan suhu sekitar, menciptakan udara segar yang alami. Selain itu, konsep ruang terbuka memperlancar sirkulasi udara, membuat rumah tidak pengap meski tanpa pendingin ruangan."
-              ]
-            },
-            {
-              "section_title": "Ventilasi Alami dan Bukaan Lebar",
-              "paragraphs": [
-                "Desain rumah dengan jendela besar dan pintu geser dari kaca memungkinkan cahaya alami masuk maksimal, mengurangi kebutuhan listrik di siang hari. Sirkulasi udara pun terjaga, mengurangi penggunaan AC dan listrik berlebih. Konsep ini membuat rumah lebih hemat energi sekaligus ramah lingkungan."
-              ]
-            },
-            {
-              "section_title": "Rumah Kayu Bernuansa Natural",
-              "paragraphs": [
-                "Material kayu tak hanya memberikan kesan hangat dan alami, tetapi juga memiliki sifat isolasi yang baik terhadap suhu. Penggunaan kayu sebagai elemen utama membantu menjaga suhu dalam ruangan tetap stabil, sekaligus memberikan tampilan minimalis yang elegan. Ditambah dengan pemilihan furnitur sederhana, rumah terasa lebih nyaman."
-              ]
-            },
-            {
-              "section_title": "Atap Taman (Rooftop Garden)",
-              "paragraphs": [
-                "Pemanfaatan atap rumah menjadi taman hijau membantu mengurangi panas yang masuk ke dalam rumah. Vegetasi di atap mampu menyerap sinar matahari sekaligus berfungsi sebagai area resapan air. Selain menambah estetika, konsep ini efektif menurunkan suhu ruangan, menciptakan mikroklimat yang lebih sejuk."
-              ]
-            },
-            {
-              "section_title": "Konsep Living Roof atau Atap Hidup",
-              "paragraphs": [
-                "Mirip dengan rooftop garden, living roof lebih menekankan pada penggunaan tanaman liar dan rumput. Desain ini tidak memerlukan banyak perawatan, namun tetap mampu menjaga keseimbangan suhu rumah. Penggunaan atap hidup juga mendukung pelestarian lingkungan karena meningkatkan keanekaragaman hayati di area sekitar."
-              ]
-            },
-            {
-              "section_title": "Kolam atau Pencahayaan Air di Area Terbuka",
-              "paragraphs": [
-                "Menambahkan elemen air seperti kolam kecil di halaman rumah memberikan efek menenangkan. Kolam juga membantu menjaga kelembapan udara di sekitar rumah. Dipadukan dengan pencahayaan alami, nuansa rumah menjadi lebih damai dan alami, mengurangi ketergantungan pada alat pendingin."
-              ]
-            },
-            {
-              "section_title": "Penggunaan Material Ramah Lingkungan",
-              "paragraphs": [
-                "Desain minimalis ini juga menitikberatkan pada pemilihan material yang tidak merusak lingkungan. Bahan seperti kayu daur ulang, batu alam lokal, serta cat bebas bahan kimia berbahaya digunakan untuk mendukung konsep eco-friendly. Selain menghemat biaya, rumah menjadi lebih sehat bagi penghuninya."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Rumah minimalis bukan sekadar soal tampilan sederhana, tetapi juga cara hidup yang lebih dekat dengan alam, hemat energi, dan nyaman ditinggali. Dengan mengadopsi elemen seperti ventilasi alami, taman terbuka, atap hijau, serta material ramah lingkungan, kita bisa menciptakan hunian ideal yang menenangkan, fungsional, dan mendukung gaya hidup berkelanjutan."
-              ]
-            }
-          ]
-        }
-        ,
+        "section_title": "",
+        "paragraphs": [
+          "Di tengah meningkatnya kesadaran akan pentingnya menjaga kelestarian bumi, berbagai pendekatan desain muncul sebagai upaya mengurangi kerusakan lingkungan. Salah satu pendekatan paling efektif adalah eco-design. Istilah ini merujuk pada metode perancangan produk atau bangunan dengan mempertimbangkan dampak lingkungan sejak tahap awal hingga akhir siklus hidup produk. Artikel ini akan mengulas prinsip, manfaat, serta tantangan dalam penerapan eco-design."
+        ]
+      },
       {
-        "id": 8,
-        "title": "Inspirasi desain rumah minimalis yang mengutamakan kesederhanaan, kenyamanan, dan harmoni dengan alam untuk menciptakan hunian yang sejuk, fungsional, dan ramah lingkungan.",
-        "description": "Inspirasi desain rumah ramah lingkungan yang mengutamakan pencahayaan alami, material berkelanjutan, area hijau, panel surya, ventilasi terbuka, dan pengolahan air hujan untuk menciptakan hunian yang nyaman, hemat energi, dan sehat.",
-        "category": "Artikel",
-        "image": "image/artikel-12.png",
-        "author": "Muhammad Ilham",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=8",
+        "section_title": "Apa Itu Eco-Design?",
+        "paragraphs": [
+          "Eco-design, atau desain ekologis, merupakan strategi desain yang menempatkan aspek lingkungan sebagai pertimbangan utama. Bukan sekadar membuat produk yang menarik, namun lebih jauh memastikan produk tersebut ramah lingkungan mulai dari pemilihan bahan baku, proses produksi, penggunaan, hingga pada tahap pembuangan atau daur ulang.",
+          "Inti dari eco-design terletak pada pengurangan penggunaan sumber daya alam yang tidak terbarukan, meminimalkan emisi dan limbah, serta memastikan produk dapat digunakan kembali atau didaur ulang. Tidak hanya itu, eco-design juga memperhatikan nilai sosial, ekonomi, dan budaya yang berkelanjutan, memberikan dampak positif bagi masyarakat luas."
+        ]
+      },
+      {
+        "section_title": "Prinsip-Prinsip Utama Eco-Design",
+        "paragraphs": [
+          "1. Efisiensi Penggunaan Bahan Baku: Produk dirancang untuk mengoptimalkan penggunaan bahan. Ini meliputi pengurangan berat produk, pemilihan material yang membutuhkan sedikit energi dalam proses produksinya, hingga menciptakan desain minimalis tanpa mengurangi fungsi produk.",
+          "2. Penggunaan Material Ramah Lingkungan: Prinsip ini mengedepankan penggunaan bahan yang bisa didaur ulang, mudah terurai secara alami (biodegradable), atau bahan dengan jejak karbon rendah.",
+          "3. Daya Tahan Produk yang Lebih Lama: Produk yang dirancang tahan lama mengurangi kebutuhan produksi barang baru. Ini secara langsung menekan konsumsi sumber daya alam, serta mengurangi volume limbah di tempat pembuangan akhir.",
+          "4. Kemudahan Daur Ulang dan Perbaikan: Eco-design mendorong produk yang mudah dibongkar, diperbaiki, atau diubah menjadi komponen lain. Dengan demikian, masa pakai produk bisa diperpanjang dan mengurangi limbah elektronik atau sampah plastik.",
+          "5. Efisiensi Energi: Produk dirancang untuk meminimalkan konsumsi energi, baik dalam proses produksi maupun selama digunakan oleh konsumen.",
+          "6. Pengurangan Polusi dan Emisi: Seluruh siklus hidup produk—dari bahan baku, proses manufaktur, penggunaan, hingga pembuangan—dirancang untuk meminimalkan limbah, polusi udara dan air, serta emisi gas rumah kaca.",
+          "7. Multifungsi dan Optimalisasi Produk: Salah satu cara meningkatkan efisiensi adalah merancang produk dengan beberapa fungsi dalam satu unit."
+        ]
+      },
+      {
+        "section_title": "Manfaat Penerapan Eco-Design",
+        "paragraphs": [
+          "1. Mengurangi Dampak Lingkungan: Penerapan eco-design memberikan kontribusi besar terhadap pelestarian lingkungan.",
+          "2. Efisiensi Biaya Jangka Panjang: Penggunaan bahan baku efisien, pengurangan limbah, serta efisiensi energi menekan biaya operasional secara keseluruhan.",
+          "3. Meningkatkan Citra Perusahaan: Di tengah konsumen yang semakin peduli terhadap isu lingkungan, perusahaan yang menerapkan eco-design memiliki keunggulan kompetitif.",
+          "4. Kepatuhan Terhadap Regulasi Lingkungan: Pemerintah di berbagai negara semakin ketat memberlakukan regulasi terkait pengurangan emisi dan pengelolaan limbah.",
+          "5. Inovasi Produk: Eco-design mendorong munculnya inovasi baru dalam desain produk."
+        ]
+      },
+      {
+        "section_title": "Tantangan dalam Penerapan Eco-Design",
+        "paragraphs": [
+          "Biaya Awal Tinggi: Pengembangan produk ramah lingkungan seringkali memerlukan investasi awal untuk penelitian material baru atau teknologi produksi yang lebih efisien.",
+          "Kesulitan Mendapatkan Bahan Baku Ramah Lingkungan: Di beberapa wilayah, akses terhadap material daur ulang atau bahan alami mungkin masih terbatas.",
+          "Kurangnya Kesadaran Konsumen: Tidak semua konsumen memiliki kesadaran tinggi terhadap pentingnya produk berkelanjutan, sehingga perlu edukasi berkelanjutan.",
+          "Kompleksitas Desain: Merancang produk dengan berbagai pertimbangan lingkungan seringkali membutuhkan waktu dan proses yang lebih rumit dibanding produk biasa."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Eco-design adalah solusi penting dalam upaya mewujudkan masa depan berkelanjutan. Dengan mengedepankan prinsip efisiensi energi, penggunaan bahan ramah lingkungan, serta memperhatikan aspek sosial dan ekonomi, pendekatan ini tidak hanya mengurangi dampak buruk terhadap lingkungan tetapi juga mendorong inovasi serta efisiensi bisnis. Implementasi eco-design menjadi langkah nyata untuk menghadapi tantangan lingkungan global saat ini. Dukungan dari semua pihak, baik pemerintah, produsen, maupun konsumen, sangat penting agar konsep ini dapat diterapkan secara luas dan memberikan manfaat maksimal bagi bumi kita."
+        ]
+      }
+    ]
+  },
 
-          "content": [
-            {
-              "section_title": "Menciptakan Hunian Sejuk dan Nyaman",
-              "paragraphs": [
-                "Menciptakan hunian yang sejuk dan nyaman sekaligus peduli terhadap lingkungan kini menjadi tren. Rumah ramah lingkungan bukan hanya soal estetika, tetapi juga cara hidup yang lebih hemat energi dan sehat bagi penghuninya."
-              ]
-            },
-            {
-              "section_title": "Penerangan Alami Maksimal",
-              "paragraphs": [
-                "Memanfaatkan cahaya matahari sebagai sumber utama pencahayaan di siang hari menjadi kunci rumah hemat energi. Jendela besar, skylight, atau pintu kaca membantu mengurangi penggunaan lampu dan menciptakan suasana terang alami."
-              ]
-            },
-            {
-              "section_title": "Material Berkelanjutan",
-              "paragraphs": [
-                "Penggunaan bahan ramah lingkungan seperti kayu daur ulang, batu alam lokal, serta cat rendah emisi adalah pilihan tepat. Material ini minim dampak negatif terhadap alam dan mendukung kenyamanan di dalam rumah."
-              ]
-            },
-            {
-              "section_title": "Taman di Area Rumah",
-              "paragraphs": [
-                "Area hijau seperti taman depan, belakang, atau bahkan vertical garden dapat meningkatkan kualitas udara. Tanaman menyerap polusi sekaligus memberikan kesejukan alami tanpa perlu AC berlebihan."
-              ]
-            },
-            {
-              "section_title": "Panel Surya untuk Energi Terbarukan",
-              "paragraphs": [
-                "Mengadopsi teknologi panel surya membantu memenuhi kebutuhan listrik rumah tangga secara mandiri. Selain mengurangi tagihan listrik, solusi ini turut mendukung pengurangan penggunaan energi fosil."
-              ]
-            },
-            {
-              "section_title": "Sistem Ventilasi Terbuka",
-              "paragraphs": [
-                "Sirkulasi udara alami sangat penting untuk kenyamanan dan kesehatan penghuni. Penggunaan ventilasi silang, plafon tinggi, atau jalur udara terbuka memastikan rumah tetap sejuk tanpa bergantung pada alat elektronik."
-              ]
-            },
-            {
-              "section_title": "Pengolahan Air Hujan",
-              "paragraphs": [
-                "Desain rumah modern juga mempertimbangkan pemanfaatan air hujan. Sistem penampungan dan penyaringan sederhana memungkinkan air hujan dimanfaatkan kembali, mengurangi konsumsi air bersih dari PDAM."
-              ]
-            },
-            {
-              "section_title": "Wujudkan Rumah Ramah Lingkungan Lebih Mudah",
-              "paragraphs": [
-                "Bagi yang ingin segera memiliki rumah ramah lingkungan, kini tersedia berbagai fasilitas pendanaan seperti KPR Hijau. Program ini dirancang untuk mendukung pembangunan rumah berkonsep eco-friendly, dengan suku bunga kompetitif dan persyaratan ramah nasabah."
-              ]
-            }
-          ]
-        }
-        ,
+  {
+    "id": 3,
+    "title": "Tips Praktis Menerapkan Eco-Design pada Hunian Ramah Lingkungan",
+    "description": "Eco-design adalah konsep hunian ramah lingkungan yang mengutamakan efisiensi energi, penggunaan material berkelanjutan, dan keseimbangan alam tanpa mengorbankan estetika dan kenyamanan.",
+    "category": "berita",
+    "image": "image/artikel-7.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=3",
+
+    "content": [
       {
-        "id": 9,
-        "title": "Hunian Sejuk dan Hemat Energi: Tips Praktis Menerapkan Eco-Design di Rumah  ",
-        "description": "Eco-design adalah konsep hunian ramah lingkungan yang mengutamakan efisiensi energi, material berkelanjutan, dan keseimbangan dengan alam untuk menciptakan rumah yang nyaman, sehat, dan hemat biaya.",
-        "category": "Artikel",
-        "image": "image/artikel-13.png",
-        "author": "Muhammad Ilham Haekal",
-        "published_date": "2024-03-19",
-        "link": "detail.html?id=9",
-        
-        
-          "content": [
-            {
-              "section_title": "Apa Itu Eco-Design?",
-              "paragraphs": [
-                "Eco-design atau desain ramah lingkungan adalah pendekatan perancangan rumah yang mempertimbangkan dampak lingkungan sejak tahap awal, mulai dari pemilihan material, sistem pencahayaan, ventilasi, hingga pengelolaan limbah. Intinya, bagaimana hunian bisa tetap fungsional, nyaman, estetis, tetapi minim jejak karbon."
-              ]
-            },
-            {
-              "section_title": "Manfaat Eco-Design untuk Hunian",
-              "paragraphs": [
-                "Efisiensi Energi & Hemat Biaya: Dengan desain yang tepat, Anda bisa mengurangi penggunaan listrik secara signifikan, misalnya memanfaatkan pencahayaan alami dan ventilasi silang. Efeknya, tagihan listrik lebih hemat!",
-                "Lingkungan Lebih Sehat: Sirkulasi udara alami, material non-toksik, serta hadirnya tanaman membuat kualitas udara di dalam rumah lebih baik. Udara segar, suhu nyaman, minim polusi—siapa yang tidak mau?",
-                "Mengurangi Limbah: Eco-design mendorong penggunaan material daur ulang atau bahan lokal yang tidak merusak lingkungan, sekaligus meminimalkan sampah dari proses konstruksi maupun renovasi rumah."
-              ]
-            },
-            {
-              "section_title": "Prinsip Utama Penerapan Eco-Design",
-              "paragraphs": [
-                "Maksimalkan Bukaan Cahaya & Ventilasi: Desain rumah dengan banyak jendela, pintu kaca, atau skylight, agar cahaya matahari bisa masuk optimal di siang hari.",
-                "Gunakan Furniture Daur Ulang atau Material Lokal: Alih-alih membeli furniture baru dari bahan sintetis atau impor, coba eksplorasi furnitur dari bahan bekas tapi berkualitas seperti kayu palet bekas, ban bekas, atau material lokal seperti bambu, rotan, atau batu alam.",
-                "Pengadaan Area Hijau di Rumah: Anda bisa menambahkan taman di halaman depan/belakang, vertical garden di dinding kosong, atau pot tanaman indoor untuk mempercantik rumah dan meningkatkan kualitas udara."
-              ]
-            },
-            {
-              "section_title": "Tips Praktis Menerapkan Eco-Design di Rumah",
-              "paragraphs": [
-                "Rencanakan Desain Sejak Awal: Konsultasikan dengan arsitek atau desainer interior yang mengerti konsep eco-design agar seluruh elemen rumah ramah lingkungan.",
-                "Manfaatkan Air Hujan: Pasang sistem penampung air hujan sederhana untuk menyiram tanaman atau membersihkan halaman, mengurangi penggunaan air PAM.",
-                "Gunakan Peralatan Hemat Energi: Peralatan rumah tangga berlabel hemat energi (lampu LED, AC inverter, kulkas low watt) membantu menghemat listrik secara signifikan.",
-                "Pilih Cat Bebas Bahan Kimia Berbahaya: Gunakan cat tembok rendah atau bebas VOC (Volatile Organic Compounds) yang ramah lingkungan dan aman untuk kesehatan keluarga.",
-                "Tanam Sendiri Sayuran atau Rempah: Gunakan pot kecil untuk menanam cabai, tomat, atau tanaman herbal agar hasil panennya bisa langsung Anda konsumsi."
-              ]
-            },
-            {
-              "section_title": "",
-              "paragraphs": [
-                "Menerapkan konsep eco-design bukan hanya soal estetika, tetapi juga bentuk kepedulian terhadap lingkungan. Dengan memaksimalkan pencahayaan alami, ventilasi silang, material ramah lingkungan, serta area hijau, Anda bisa menciptakan rumah yang nyaman, sehat, dan berkontribusi positif untuk bumi. Mulailah dari langkah kecil—perbaiki pola konsumsi listrik, kurangi penggunaan material sintetis, dan jangan lupa tambahkan sentuhan hijau di rumah Anda. Lingkungan sehat, dompet hemat, hati pun tenang."
-              ]
-            }
-          ]
-        }
-        
-        
-      
-    
-  ]
+        "section_title": "",
+        "paragraphs": [
+          "Dalam merancang sebuah hunian, banyak orang cenderung mengutamakan aspek estetika dan fungsi tanpa mempertimbangkan dampak lingkungannya. Padahal, konsep eco-design tidak hanya menjaga kelestarian alam, tetapi juga tetap bisa menghadirkan keindahan dan kenyamanan di rumah.",
+          "Eco-design berfokus pada penggunaan energi secara efisien, pengurangan limbah, serta pemanfaatan material ramah lingkungan."
+        ]
+      },
+      {
+        "section_title": "Langkah-Langkah Eco-Design",
+        "paragraphs": []
+      },
+      {
+        "section_title": "1. Memaksimalkan Bukaan dan Ventilasi Alami",
+        "paragraphs": [
+          "Salah satu cara paling efektif dalam menerapkan eco-design di rumah adalah dengan memperbanyak bukaan seperti jendela dan ventilasi. Penggunaan pencahayaan alami di siang hari dapat mengurangi kebutuhan lampu, sekaligus meminimalkan penggunaan pendingin ruangan (AC) karena sirkulasi udara lebih optimal. Hasilnya, konsumsi listrik bisa ditekan, serta ruangan terasa lebih sehat dan segar."
+        ]
+      },
+
+      {
+        "section_title": "2. Menggunakan Furniture dari Material Daur Ulang",
+        "paragraphs": [
+          " Salah satu prinsip eco-design adalah memanfaatkan barang-barang bekas yang masih layak pakai untuk menjadi sesuatu yang baru dan bermanfaat. Anda bisa memanfaatkan kayu palet bekas, ban mobil, atau limbah industri lain sebagai bahan pembuatan meja, kursi, atau rak di rumah. Selain mengurangi limbah, penggunaan material daur ulang juga memberi nilai estetika unik dan personal pada interior rumah Anda."
+        ]
+      },
+      {
+        "section_title": "3. Memperbanyak Area Hijau di Dalam dan Luar Rumah",
+        "paragraphs": [
+          " Eco-design sangat erat kaitannya dengan kehadiran ruang hijau. Tanaman di dalam rumah tidak hanya berfungsi sebagai elemen dekoratif, tetapi juga membantu meningkatkan kualitas udara dan menciptakan keseimbangan lingkungan mikro di dalam hunian."
+        ]
+      },
+      {
+        "section_title": "4. Mengelola Sampah dengan Bijak",
+        "paragraphs": [
+          "Penerapan eco-design juga menekankan pentingnya pengelolaan limbah rumah tangga. Mulailah dengan memisahkan sampah organik dan anorganik, serta memanfaatkan sampah organik sebagai kompos untuk tanaman. Sedangkan sampah anorganik seperti plastik dan kertas dapat didaur ulang menjadi barang-barang fungsional atau disalurkan ke bank sampah."
+        ]
+      },
+      {
+        "section_title": "5. Menggunakan Material Bangunan Lokal dan Ramah Lingkungan",
+        "paragraphs": [
+          " Saat membangun atau merenovasi rumah, pertimbangkan penggunaan material lokal yang memiliki jejak karbon rendah. Material seperti batu bata lokal, kayu dari hutan yang dikelola berkelanjutan, atau bambu adalah pilihan bijak yang mendukung konsep eco-design."
+        ]
+      },
+      {
+        "section_title": "6 Memanfaatkan Teknologi Hemat Energi",
+        "paragraphs": [
+          " Teknologi juga bisa membantu mewujudkan hunian ramah lingkungan. Pilih peralatan rumah tangga yang memiliki sertifikat hemat energi, seperti lampu LED, kulkas inverter, dan perangkat elektronik lainnya yang memiliki konsumsi daya rendah."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Menerapkan konsep eco-design di hunian bukanlah sesuatu yang sulit atau mahal. Dengan langkah-langkah sederhana seperti memaksimalkan pencahayaan alami, menggunakan furniture daur ulang, memperbanyak ruang hijau, serta bijak dalam penggunaan energi dan material, setiap orang bisa ikut serta menjaga kelestarian bumi.",
+          "Selain berdampak positif bagi lingkungan, penerapan eco-design juga menciptakan hunian yang sehat, nyaman, dan estetis."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Konsep Green Design Solusi Interior Estetik",
+    "description": "Desain interior hijau adalah konsep yang menggabungkan estetika dengan prinsip ramah lingkungan untuk menciptakan ruang hidup yang sehat, hemat energi, dan berkelanjutan.",
+    "category": "Artikel",
+    "image": "image/artikel-8.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=4",
+
+    "content": [
+      {
+        "section_title": "Desain Interior Hijau",
+        "paragraphs": [
+          "Di tengah meningkatnya kesadaran akan pentingnya menjaga kelestarian lingkungan, konsep desain interior hijau atau green design semakin mendapatkan perhatian. Desain ini tidak sekadar soal estetika, melainkan juga tentang menciptakan ruang hidup yang sehat, hemat energi, serta minim dampak negatif bagi bumi.",
+          "Pada intinya, desain interior hijau menggabungkan prinsip-prinsip ramah lingkungan dalam setiap elemen ruang. Tujuannya adalah menciptakan harmoni antara manusia dan alam, di mana fungsi ruang tetap maksimal, namun tidak mengabaikan keberlanjutan ekosistem."
+        ]
+      },
+      {
+        "section_title": "Prinsip Utama Desain Interior Hijau",
+        "paragraphs": [
+          "Penggunaan Material Ramah Lingkungan: Material yang digunakan dalam desain hijau berasal dari sumber alami, terbarukan, atau hasil daur ulang. Kayu bersertifikat legal, bambu, batu alam, hingga kain organik menjadi pilihan utama karena tidak merusak lingkungan dan dapat terurai secara alami.",
+          "Efisiensi Energi: Desain interior hijau sangat memperhatikan penggunaan energi. Pengaturan tata letak ruangan, ventilasi, dan bukaan cahaya dioptimalkan agar meminimalisir kebutuhan listrik untuk pencahayaan dan pendinginan ruangan. Perangkat elektronik hemat energi juga menjadi elemen penting dalam konsep ini.",
+          "Pencahayaan dan Ventilasi Alami: Pemanfaatan cahaya matahari secara maksimal menjadi salah satu ciri khas desain ini. Dengan mengatur posisi jendela dan skylight, ruangan akan mendapatkan pencahayaan alami yang cukup, sekaligus mengurangi konsumsi energi listrik. Sirkulasi udara yang baik juga dijaga agar kualitas udara dalam ruangan tetap sehat.",
+          "Furnitur Berkelanjutan: Pemilihan furnitur tidak hanya didasarkan pada tampilan, tetapi juga asal-usul bahan, proses produksi, dan ketahanannya. Furnitur dari bahan daur ulang atau produksi lokal yang mengedepankan prinsip ramah lingkungan menjadi bagian penting dari desain ini.",
+          "Minimalkan Limbah: Desain hijau mendorong pemilik rumah atau bangunan untuk mengurangi limbah sejak proses pembangunan hingga penggunaan sehari-hari. Salah satunya dengan menerapkan konsep reduce, reuse, recycle dalam pemilihan material maupun barang-barang dekoratif."
+        ]
+      },
+      {
+        "section_title": "Manfaat Desain Interior Hijau",
+        "paragraphs": [
+          "Kesehatan Penghuni Terjaga: Material alami cenderung bebas zat kimia berbahaya seperti formaldehida. Sirkulasi udara yang baik juga membuat kualitas udara dalam ruangan lebih bersih, mengurangi risiko alergi atau gangguan pernapasan.",
+          "Hemat Biaya Jangka Panjang: Meski biaya awal untuk menerapkan desain hijau bisa sedikit lebih tinggi, efisiensi energi serta penggunaan material tahan lama akan mengurangi pengeluaran rutin seperti tagihan listrik dan biaya perawatan.",
+          "Mengurangi Jejak Karbon: Dengan memanfaatkan bahan-bahan lokal dan daur ulang, serta meminimalisir penggunaan energi, desain ini membantu menekan jumlah emisi karbon yang dihasilkan dari aktivitas sehari-hari.",
+          "Estetika yang Natural dan Nyaman: Desain hijau identik dengan kesan natural, sederhana, namun tetap elegan. Ruang yang dihasilkan terasa lebih segar, hangat, dan nyaman untuk dihuni."
+        ]
+      },
+      {
+        "section_title": "Contoh Penerapan Desain Interior Hijau",
+        "paragraphs": [
+          "Rumah dengan banyak bukaan kaca untuk pencahayaan alami, meminimalisir penggunaan lampu di siang hari.",
+          "Kafe atau restoran yang menggunakan furnitur dari kayu daur ulang dan dekorasi tanaman hidup.",
+          "Kantor yang menerapkan konsep open space dengan ventilasi silang, mengurangi kebutuhan AC.",
+          "Hotel yang menyediakan perabotan berbahan ramah lingkungan serta mengutamakan produk lokal."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Desain interior hijau adalah wujud komitmen terhadap kehidupan yang lebih berkelanjutan. Dengan mengutamakan keseimbangan antara kenyamanan ruang dan kelestarian alam, konsep ini tidak hanya memberikan manfaat bagi lingkungan, tetapi juga meningkatkan kualitas hidup penghuninya. Melalui langkah sederhana seperti pemilihan material alami, efisiensi energi, dan pengelolaan limbah yang bijak, setiap individu dapat ikut berkontribusi dalam menjaga bumi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Pentingnya Arsitektur Hijau dalam Pembangunan Berkelanjutan",
+    "description": "Arsitektur hijau adalah pendekatan desain bangunan yang ramah lingkungan, berkelanjutan, dan memberikan manfaat ekologis, ekonomi, serta kesehatan bagi manusia.",
+    "category": "Artikel",
+    "image": "image/artikel-9.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=5",
+
+    "content": [
+      {
+        "section_title": "Pentingnya Arsitektur Hijau",
+        "paragraphs": [
+          "Di era modern yang serba cepat dan penuh tantangan lingkungan, konsep arsitektur hijau menjadi semakin relevan dan krusial. Penerapan prinsip-prinsip ramah lingkungan dalam desain dan konstruksi bangunan tidak hanya berdampak positif bagi lingkungan, tetapi juga memberikan manfaat besar bagi manusia, baik secara kesehatan, ekonomi, maupun sosial."
+        ]
+      },
+      {
+        "section_title": "Tokoh dan Pendapat Ahli",
+        "paragraphs": [
+          "Wiza Hidayat menekankan bahwa bumi adalah amanah yang harus dijaga. Bangunan menjadi sektor penting yang dapat berkontribusi signifikan dalam mengurangi emisi karbon.",
+          "Georgius Budi Yulianto menyoroti bahwa arsitektur hijau harus menjadi bagian dari gaya hidup masyarakat, bukan sekadar tren.",
+          "Reza A. Nurtjahja menilai bahwa kepedulian lingkungan harus menjadi prinsip dasar dalam rancangan bangunan.",
+          "Ngakan Ketut Acwin Dwijendra menegaskan bahwa pembangunan dengan konsep hijau adalah sebuah keharusan demi masa depan yang berkelanjutan."
+        ]
+      },
+      {
+        "section_title": "Manfaat Arsitektur Hijau",
+        "paragraphs": [
+          "Mengurangi Dampak Lingkungan: Bangunan hijau dirancang untuk meminimalisir konsumsi energi, air, serta bahan bangunan yang merusak alam.",
+          "Efisiensi Biaya Jangka Panjang: Walau biaya awal lebih tinggi, bangunan hijau menghemat biaya operasional dalam jangka panjang.",
+          "Meningkatkan Kesehatan Penghuni: Desain bangunan hijau memperhatikan kualitas udara, pencahayaan alami, dan kenyamanan termal.",
+          "Meningkatkan Nilai Properti: Bangunan bersertifikat hijau memiliki daya tarik yang lebih tinggi di pasar properti.",
+          "Kontribusi terhadap Penanganan Perubahan Iklim: Bangunan hijau membantu menekan emisi gas rumah kaca."
+        ]
+      },
+      {
+        "section_title": "Contoh Penerapan Bangunan Hijau",
+        "paragraphs": [
+          "Bullitt Center di Seattle: Menggunakan 100% energi terbarukan dan memiliki sistem pengelolaan air yang efisien.",
+          "Bosco Verticale di Milan: Dihiasi dengan ribuan pohon yang membantu menyerap karbon dioksida dan menghasilkan oksigen.",
+          "Marina Bay Sands di Singapura: Menerapkan sistem pengelolaan air hujan, panel surya, dan taman hijau di atas atap.",
+          "Gedung DPR di Jakarta: Memanfaatkan panel surya, material ramah lingkungan, dan desain yang memperhatikan efisiensi energi."
+        ]
+      },
+      {
+        "section_title": "Perkembangan Tren Bangunan Hijau di Indonesia",
+        "paragraphs": [
+          "Di Indonesia, khususnya Jakarta, tren pembangunan gedung hijau terus meningkat seiring dengan kesadaran akan pentingnya penerapan prinsip berkelanjutan.",
+          "Luas lantai gedung bersertifikat hijau kini mencapai lebih dari 1 juta meter persegi, didorong oleh prinsip ESG yang banyak diadopsi perusahaan."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Arsitektur hijau adalah keharusan dalam menghadapi tantangan global seperti perubahan iklim dan krisis energi.",
+          "Dengan kesadaran kolektif dan komitmen yang kuat, kita dapat menciptakan lingkungan yang nyaman, efisien, dan berkontribusi positif terhadap bumi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tren Arsitektur Berkelanjutan yang Semakin Menguat di 2025",
+    "description": "Green building adalah konsep arsitektur berkelanjutan yang memadukan efisiensi energi, material ramah lingkungan, dan kenyamanan penghuni untuk menciptakan bangunan yang lebih sehat dan hemat biaya operasional.",
+    "category": "Artikel",
+    "image": "image/artikel-10.png",
+    "author": "Arsya Rivaldo",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=6",
+
+    "content": [
+      {
+        "section_title": "Perkembangan Green Building di 2025",
+        "paragraphs": [
+          "Perkembangan dunia arsitektur terus bergerak seiring meningkatnya kesadaran global terhadap isu lingkungan. Di tahun 2025, konsep green building atau bangunan hijau diprediksi akan tetap menjadi salah satu tren utama dalam dunia desain dan konstruksi. Hal ini tidak terlepas dari kebutuhan untuk menciptakan lingkungan binaan yang efisien, nyaman, dan ramah bagi alam maupun penghuninya."
+        ]
+      },
+      {
+        "section_title": "Mengapa Konsep Green Building Kian Diminati",
+        "paragraphs": [
+          "Kesadaran Terhadap Krisis Lingkungan: Perubahan iklim, polusi udara, serta keterbatasan sumber daya alam mendorong arsitek, pengembang properti, dan masyarakat luas untuk mencari solusi yang berkelanjutan. Bangunan hijau menjadi salah satu jawaban konkret untuk mengurangi dampak negatif terhadap bumi.",
+          "Teknologi yang Semakin Mendukung: Kemajuan teknologi telah menghadirkan berbagai inovasi yang mempermudah penerapan green building. Mulai dari penggunaan panel surya, sistem pengelolaan air hujan, hingga smart system untuk mengontrol pencahayaan dan pendinginan secara otomatis demi efisiensi energi.",
+          "Efisiensi Biaya Operasional: Meski pembangunan bangunan hijau memerlukan investasi awal lebih tinggi, namun penghematan energi, air, serta biaya perawatan jangka panjang membuat konsep ini semakin menarik secara finansial.",
+          "Kesehatan & Kenyamanan Penghuni: Bangunan hijau dirancang untuk memaksimalkan pencahayaan alami, ventilasi silang, serta menggunakan material bebas bahan beracun. Hasilnya, kualitas udara di dalam ruangan lebih baik, suhu stabil, dan penghuni merasa lebih sehat serta produktif."
+        ]
+      },
+      {
+        "section_title": "Elemen-Elemen Kunci Green Building",
+        "paragraphs": [
+          "Material Ramah Lingkungan: Penggunaan bahan lokal, daur ulang, atau material dengan sertifikasi keberlanjutan sangat dianjurkan. Misalnya, kayu bersertifikat FSC, batu alam, serta cat dengan emisi VOC rendah.",
+          "Efisiensi Energi: Desain bangunan disesuaikan untuk meminimalkan kebutuhan listrik, dengan memanfaatkan pencahayaan alami, pemasangan panel surya, dan penggunaan alat elektronik hemat energi.",
+          "Sistem Pengelolaan Air: Penerapan teknologi untuk mengumpulkan dan mengolah air hujan, serta penggunaan alat hemat air seperti kran otomatis dan toilet dual flush, menjadi bagian dari strategi penghematan air.",
+          "Pengelolaan Limbah Konstruksi: Green building juga memperhatikan proses pembangunan agar minim limbah. Bahan-bahan sisa konstruksi dipilah untuk didaur ulang, bukan langsung dibuang ke tempat pembuangan akhir."
+        ]
+      },
+      {
+        "section_title": "Prediksi Tren Green Building di 2025",
+        "paragraphs": [
+          "Integrasi Smart Technology: Penggunaan sensor otomatis untuk mengatur pencahayaan, suhu ruangan, hingga keamanan bangunan akan menjadi standar dalam green building, demi efisiensi energi yang lebih optimal.",
+          "Penggunaan Material Inovatif: Material hasil riset terbaru, seperti beton rendah karbon, panel surya transparan, hingga cat yang mampu menyerap polusi, akan semakin banyak digunakan.",
+          "Desain Biophilic: Penerapan elemen alami ke dalam bangunan seperti taman vertikal, rooftop garden, serta kolam resapan akan menjadi elemen wajib untuk menciptakan keseimbangan ekosistem di lingkungan perkotaan.",
+          "Sertifikasi Bangunan Hijau: Permintaan terhadap bangunan dengan sertifikasi seperti EDGE, LEED, atau Greenship diperkirakan meningkat, karena menjadi daya tarik utama bagi investor maupun penghuni yang peduli lingkungan."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Green building bukan sekadar tren arsitektur sesaat, melainkan sebuah kebutuhan yang terus berkembang demi menjawab tantangan global. Tahun 2025 diprediksi akan menjadi momen penting bagi semakin meluasnya penerapan prinsip-prinsip bangunan hijau, baik."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Rumah Minimalis Sejuk dan Ramah Lingkungan: 7 Inspirasi Desain Modern",
+    "description": "Inspirasi desain rumah minimalis yang mengutamakan kesederhanaan, kenyamanan, dan harmoni dengan alam untuk menciptakan hunian yang sejuk, fungsional, dan ramah lingkungan.",
+    "category": "Artikel",
+    "image": "image/artikel-11.png",
+    "author": "Muhammad Ilham",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=7",
+    "content": [
+      {
+        "section_title": "Rumah Satu Lantai dengan Taman Terbuka",
+        "paragraphs": [
+          "Hunian satu lantai dengan taman di sekelilingnya memberikan kesan lapang. Tanaman di pekarangan membantu menurunkan suhu sekitar, menciptakan udara segar yang alami. Selain itu, konsep ruang terbuka memperlancar sirkulasi udara, membuat rumah tidak pengap meski tanpa pendingin ruangan."
+        ]
+      },
+      {
+        "section_title": "Ventilasi Alami dan Bukaan Lebar",
+        "paragraphs": [
+          "Desain rumah dengan jendela besar dan pintu geser dari kaca memungkinkan cahaya alami masuk maksimal, mengurangi kebutuhan listrik di siang hari. Sirkulasi udara pun terjaga, mengurangi penggunaan AC dan listrik berlebih. Konsep ini membuat rumah lebih hemat energi sekaligus ramah lingkungan."
+        ]
+      },
+      {
+        "section_title": "Rumah Kayu Bernuansa Natural",
+        "paragraphs": [
+          "Material kayu tak hanya memberikan kesan hangat dan alami, tetapi juga memiliki sifat isolasi yang baik terhadap suhu. Penggunaan kayu sebagai elemen utama membantu menjaga suhu dalam ruangan tetap stabil, sekaligus memberikan tampilan minimalis yang elegan. Ditambah dengan pemilihan furnitur sederhana, rumah terasa lebih nyaman."
+        ]
+      },
+      {
+        "section_title": "Atap Taman (Rooftop Garden)",
+        "paragraphs": [
+          "Pemanfaatan atap rumah menjadi taman hijau membantu mengurangi panas yang masuk ke dalam rumah. Vegetasi di atap mampu menyerap sinar matahari sekaligus berfungsi sebagai area resapan air. Selain menambah estetika, konsep ini efektif menurunkan suhu ruangan, menciptakan mikroklimat yang lebih sejuk."
+        ]
+      },
+      {
+        "section_title": "Konsep Living Roof atau Atap Hidup",
+        "paragraphs": [
+          "Mirip dengan rooftop garden, living roof lebih menekankan pada penggunaan tanaman liar dan rumput. Desain ini tidak memerlukan banyak perawatan, namun tetap mampu menjaga keseimbangan suhu rumah. Penggunaan atap hidup juga mendukung pelestarian lingkungan karena meningkatkan keanekaragaman hayati di area sekitar."
+        ]
+      },
+      {
+        "section_title": "Kolam atau Pencahayaan Air di Area Terbuka",
+        "paragraphs": [
+          "Menambahkan elemen air seperti kolam kecil di halaman rumah memberikan efek menenangkan. Kolam juga membantu menjaga kelembapan udara di sekitar rumah. Dipadukan dengan pencahayaan alami, nuansa rumah menjadi lebih damai dan alami, mengurangi ketergantungan pada alat pendingin."
+        ]
+      },
+      {
+        "section_title": "Penggunaan Material Ramah Lingkungan",
+        "paragraphs": [
+          "Desain minimalis ini juga menitikberatkan pada pemilihan material yang tidak merusak lingkungan. Bahan seperti kayu daur ulang, batu alam lokal, serta cat bebas bahan kimia berbahaya digunakan untuk mendukung konsep eco-friendly. Selain menghemat biaya, rumah menjadi lebih sehat bagi penghuninya."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Rumah minimalis bukan sekadar soal tampilan sederhana, tetapi juga cara hidup yang lebih dekat dengan alam, hemat energi, dan nyaman ditinggali. Dengan mengadopsi elemen seperti ventilasi alami, taman terbuka, atap hijau, serta material ramah lingkungan, kita bisa menciptakan hunian ideal yang menenangkan, fungsional, dan mendukung gaya hidup berkelanjutan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Inspirasi desain rumah minimalis yang mengutamakan kesederhanaan, kenyamanan, dan harmoni dengan alam untuk menciptakan hunian yang sejuk, fungsional, dan ramah lingkungan.",
+    "description": "Inspirasi desain rumah ramah lingkungan yang mengutamakan pencahayaan alami, material berkelanjutan, area hijau, panel surya, ventilasi terbuka, dan pengolahan air hujan untuk menciptakan hunian yang nyaman, hemat energi, dan sehat.",
+    "category": "Artikel",
+    "image": "image/artikel-12.png",
+    "author": "Muhammad Ilham",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=8",
+
+    "content": [
+      {
+        "section_title": "Menciptakan Hunian Sejuk dan Nyaman",
+        "paragraphs": [
+          "Menciptakan hunian yang sejuk dan nyaman sekaligus peduli terhadap lingkungan kini menjadi tren. Rumah ramah lingkungan bukan hanya soal estetika, tetapi juga cara hidup yang lebih hemat energi dan sehat bagi penghuninya."
+        ]
+      },
+      {
+        "section_title": "Penerangan Alami Maksimal",
+        "paragraphs": [
+          "Memanfaatkan cahaya matahari sebagai sumber utama pencahayaan di siang hari menjadi kunci rumah hemat energi. Jendela besar, skylight, atau pintu kaca membantu mengurangi penggunaan lampu dan menciptakan suasana terang alami."
+        ]
+      },
+      {
+        "section_title": "Material Berkelanjutan",
+        "paragraphs": ["Penggunaan bahan ramah lingkungan seperti kayu daur ulang, batu alam lokal, serta cat rendah emisi adalah pilihan tepat. Material ini minim dampak negatif terhadap alam dan mendukung kenyamanan di dalam rumah."]
+      },
+      {
+        "section_title": "Taman di Area Rumah",
+        "paragraphs": ["Area hijau seperti taman depan, belakang, atau bahkan vertical garden dapat meningkatkan kualitas udara. Tanaman menyerap polusi sekaligus memberikan kesejukan alami tanpa perlu AC berlebihan."]
+      },
+      {
+        "section_title": "Panel Surya untuk Energi Terbarukan",
+        "paragraphs": ["Mengadopsi teknologi panel surya membantu memenuhi kebutuhan listrik rumah tangga secara mandiri. Selain mengurangi tagihan listrik, solusi ini turut mendukung pengurangan penggunaan energi fosil."]
+      },
+      {
+        "section_title": "Sistem Ventilasi Terbuka",
+        "paragraphs": ["Sirkulasi udara alami sangat penting untuk kenyamanan dan kesehatan penghuni. Penggunaan ventilasi silang, plafon tinggi, atau jalur udara terbuka memastikan rumah tetap sejuk tanpa bergantung pada alat elektronik."]
+      },
+      {
+        "section_title": "Pengolahan Air Hujan",
+        "paragraphs": ["Desain rumah modern juga mempertimbangkan pemanfaatan air hujan. Sistem penampungan dan penyaringan sederhana memungkinkan air hujan dimanfaatkan kembali, mengurangi konsumsi air bersih dari PDAM."]
+      },
+      {
+        "section_title": "Wujudkan Rumah Ramah Lingkungan Lebih Mudah",
+        "paragraphs": [
+          "Bagi yang ingin segera memiliki rumah ramah lingkungan, kini tersedia berbagai fasilitas pendanaan seperti KPR Hijau. Program ini dirancang untuk mendukung pembangunan rumah berkonsep eco-friendly, dengan suku bunga kompetitif dan persyaratan ramah nasabah."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Hunian Sejuk dan Hemat Energi: Tips Praktis Menerapkan Eco-Design di Rumah  ",
+    "description": "Eco-design adalah konsep hunian ramah lingkungan yang mengutamakan efisiensi energi, material berkelanjutan, dan keseimbangan dengan alam untuk menciptakan rumah yang nyaman, sehat, dan hemat biaya.",
+    "category": "Artikel",
+    "image": "image/artikel-13.png",
+    "author": "Muhammad Ilham Haekal",
+    "published_date": "2024-03-19",
+    "link": "detail.html?id=9",
+
+    "content": [
+      {
+        "section_title": "Apa Itu Eco-Design?",
+        "paragraphs": [
+          "Eco-design atau desain ramah lingkungan adalah pendekatan perancangan rumah yang mempertimbangkan dampak lingkungan sejak tahap awal, mulai dari pemilihan material, sistem pencahayaan, ventilasi, hingga pengelolaan limbah. Intinya, bagaimana hunian bisa tetap fungsional, nyaman, estetis, tetapi minim jejak karbon."
+        ]
+      },
+      {
+        "section_title": "Manfaat Eco-Design untuk Hunian",
+        "paragraphs": [
+          "Efisiensi Energi & Hemat Biaya: Dengan desain yang tepat, Anda bisa mengurangi penggunaan listrik secara signifikan, misalnya memanfaatkan pencahayaan alami dan ventilasi silang. Efeknya, tagihan listrik lebih hemat!",
+          "Lingkungan Lebih Sehat: Sirkulasi udara alami, material non-toksik, serta hadirnya tanaman membuat kualitas udara di dalam rumah lebih baik. Udara segar, suhu nyaman, minim polusi—siapa yang tidak mau?",
+          "Mengurangi Limbah: Eco-design mendorong penggunaan material daur ulang atau bahan lokal yang tidak merusak lingkungan, sekaligus meminimalkan sampah dari proses konstruksi maupun renovasi rumah."
+        ]
+      },
+      {
+        "section_title": "Prinsip Utama Penerapan Eco-Design",
+        "paragraphs": [
+          "Maksimalkan Bukaan Cahaya & Ventilasi: Desain rumah dengan banyak jendela, pintu kaca, atau skylight, agar cahaya matahari bisa masuk optimal di siang hari.",
+          "Gunakan Furniture Daur Ulang atau Material Lokal: Alih-alih membeli furniture baru dari bahan sintetis atau impor, coba eksplorasi furnitur dari bahan bekas tapi berkualitas seperti kayu palet bekas, ban bekas, atau material lokal seperti bambu, rotan, atau batu alam.",
+          "Pengadaan Area Hijau di Rumah: Anda bisa menambahkan taman di halaman depan/belakang, vertical garden di dinding kosong, atau pot tanaman indoor untuk mempercantik rumah dan meningkatkan kualitas udara."
+        ]
+      },
+      {
+        "section_title": "Tips Praktis Menerapkan Eco-Design di Rumah",
+        "paragraphs": [
+          "Rencanakan Desain Sejak Awal: Konsultasikan dengan arsitek atau desainer interior yang mengerti konsep eco-design agar seluruh elemen rumah ramah lingkungan.",
+          "Manfaatkan Air Hujan: Pasang sistem penampung air hujan sederhana untuk menyiram tanaman atau membersihkan halaman, mengurangi penggunaan air PAM.",
+          "Gunakan Peralatan Hemat Energi: Peralatan rumah tangga berlabel hemat energi (lampu LED, AC inverter, kulkas low watt) membantu menghemat listrik secara signifikan.",
+          "Pilih Cat Bebas Bahan Kimia Berbahaya: Gunakan cat tembok rendah atau bebas VOC (Volatile Organic Compounds) yang ramah lingkungan dan aman untuk kesehatan keluarga.",
+          "Tanam Sendiri Sayuran atau Rempah: Gunakan pot kecil untuk menanam cabai, tomat, atau tanaman herbal agar hasil panennya bisa langsung Anda konsumsi."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Menerapkan konsep eco-design bukan hanya soal estetika, tetapi juga bentuk kepedulian terhadap lingkungan. Dengan memaksimalkan pencahayaan alami, ventilasi silang, material ramah lingkungan, serta area hijau, Anda bisa menciptakan rumah yang nyaman, sehat, dan berkontribusi positif untuk bumi. Mulailah dari langkah kecil—perbaiki pola konsumsi listrik, kurangi penggunaan material sintetis, dan jangan lupa tambahkan sentuhan hijau di rumah Anda. Lingkungan sehat, dompet hemat, hati pun tenang."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Dekorasi Rumah Ramah Lingkungan: Elegan, Praktis, dan Berkelanjutan",
+    "description": "Di tengah meningkatnya kesadaran akan pentingnya menjaga lingkungan, tren dekorasi rumah pun ikut bertransformasi dengan wallboard sebagai material interior yang praktis, elegan dan ramah lingkungan.",
+    "category": "Artikel",
+    "image": "image/artikel-14.jpeg",
+    "author": "Muhammad Ilham",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=10",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Di tengah meningkatnya kesadaran akan pentingnya menjaga lingkungan, tren dekorasi rumah pun ikut bertransformasi. Kini, banyak orang mulai melirik elemen interior yang tidak hanya estetis, tetapi juga ramah lingkungan. Salah satu material yang tengah populer adalah wallboard, pilihan dekorasi yang praktis sekaligus elegan."
+        ]
+      },
+      {
+        "section_title": "Wallboard Sebagai Material Interior Eco-Friendly",
+        "paragraphs": [
+          "Wallboard adalah panel dinding yang terbuat dari bahan daur ulang dan diproduksi dengan proses yang minim emisi. Selain mengurangi limbah, penggunaannya mendukung prinsip keberlanjutan tanpa mengorbankan kualitas maupun tampilan interior."
+        ]
+      },
+      {
+        "section_title": "Instalasi Praktis dan Efisien",
+        "paragraphs": ["Material ini dikenal mudah dipasang tanpa memerlukan proses rumit. Cocok bagi pemilik rumah yang ingin mempercantik hunian dalam waktu singkat, namun tetap mengedepankan konsep ramah lingkungan."]
+      },
+      {
+        "section_title": "Tampilan Elegan dan Modern",
+        "paragraphs": ["Meski sederhana, wallboard hadir dengan berbagai motif dan tekstur menarik. Mulai dari pola natural hingga gaya minimalis, material ini memberikan sentuhan elegan tanpa kesan berlebihan."]
+      },
+      {
+        "section_title": "Daya Tahan Tinggi",
+        "paragraphs": ["Selain tampilannya, kelebihan wallboard terletak pada kekuatan dan ketahanannya terhadap perubahan suhu dan kelembapan. Dengan perawatan minimal, material ini tetap awet dalam jangka panjang."]
+      },
+      {
+        "section_title": "Mendukung Pengurangan Jejak Karbon",
+        "paragraphs": ["Penggunaan wallboard membantu mengurangi ketergantungan pada material konvensional yang proses produksinya menghasilkan emisi tinggi. Dengan begitu, pemilik rumah ikut berkontribusi dalam pengurangan jejak karbon."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Dengan mengaplikasikan wallboard sebagai elemen dekorasi, Anda tidak hanya mendapatkan rumah yang tampil estetis dan modern, tetapi juga turut berperan dalam menjaga kelestarian lingkungan. Pilihlah material berkualitas dari produsen terpercaya untuk hasil terbaik dan dampak positif yang berkelanjutan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Panduan Rumah Sehat dan Lestari: Ciri-ciri Hunian Peduli Lingkungan",
+    "description": "Membangun rumah ramah lingkungan bukan sekadar tren, tetapi juga bentuk tanggung jawab terhadap kelestarian alam dengan mengutamakan material alami, efisiensi energi, pengelolaan air, pengolahan sampah, dan ventilasi alami.",
+    "category": "Artikel",
+    "image": "image/artikel-15.jpeg",
+    "author": "Muhammad Ilham",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=11",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Membangun rumah tidak hanya soal tampilan indah atau desain modern. Saat ini, semakin banyak orang menyadari pentingnya memiliki hunian yang ramah lingkungan. Rumah seperti ini tak hanya mengutamakan kenyamanan penghuninya, tetapi juga berperan aktif dalam menjaga kelestarian alam. Berikut beberapa ciri utama yang wajib diperhatikan saat merancang rumah berwawasan lingkungan:"
+        ]
+      },
+      {
+        "section_title": "Penggunaan Material Alami dan Lokal",
+        "paragraphs": [
+          "Pemilihan bahan bangunan seperti kayu, batu alam, bambu, atau material daur ulang sangat dianjurkan. Selain mengurangi polusi akibat pengolahan material industri, penggunaan bahan lokal juga menghemat biaya transportasi dan mendukung ekonomi sekitar."
+        ]
+      },
+      {
+        "section_title": "Efisiensi Energi",
+        "paragraphs": [
+          "Rumah ramah lingkungan dirancang agar meminimalisir konsumsi energi. Penggunaan teknologi seperti lampu LED, panel surya, serta pemanfaatan pencahayaan dan ventilasi alami adalah langkah penting untuk mengurangi ketergantungan pada listrik berlebih."
+        ]
+      },
+      {
+        "section_title": "Sistem Pengelolaan Air",
+        "paragraphs": [
+          "Memiliki sistem penampungan air hujan untuk kebutuhan rumah tangga serta instalasi sanitasi yang baik merupakan kriteria penting. Hal ini bertujuan untuk mengurangi pemborosan air bersih sekaligus menjaga kualitas lingkungan sekitar."
+        ]
+      },
+      {
+        "section_title": "Pengolahan Sampah Mandiri",
+        "paragraphs": [
+          "Pengelolaan sampah organik dan anorganik di area rumah menjadi bagian dari gaya hidup berkelanjutan. Dengan adanya sistem kompos atau pemisahan sampah, penghuni turut mengurangi volume sampah yang mencemari lingkungan."
+        ]
+      },
+      {
+        "section_title": "Desain Ventilasi Terbuka",
+        "paragraphs": ["Sirkulasi udara alami sangat diperhatikan pada rumah ramah lingkungan. Jendela besar, lubang angin, atau taman dalam rumah membantu menjaga suhu tetap sejuk tanpa perlu bergantung pada pendingin buatan."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Memiliki rumah ramah lingkungan bukan hanya tentang mengikuti tren, tetapi juga berkontribusi nyata dalam pelestarian bumi. Dengan menerapkan prinsip-prinsip di atas, kita tidak hanya menciptakan hunian yang nyaman dan sehat, tetapi juga mewariskan lingkungan yang lebih baik untuk generasi mendatang. Ingatlah bahwa setiap langkah kecil menuju gaya hidup berkelanjutan memiliki dampak besar bagi planet kita."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Hunian & Produk Ramah Lingkungan yang Fungsional",
+    "description": "Mengadopsi gaya hidup berkelanjutan melalui pemilihan material alami, produk tahan lama, proses produksi minim limbah, konsep daur ulang, dan kemasan ramah lingkungan untuk hunian yang tidak hanya estetis tetapi juga berkontribusi pada kelestarian bumi.",
+    "category": "Artikel",
+    "image": "image/artikel-16.jpeg",
+    "author": "Muhammad Ilham",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=12",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Kesadaran akan pentingnya menjaga bumi mendorong banyak orang untuk mengadopsi prinsip ramah lingkungan, tak hanya dalam aktivitas sehari-hari, tetapi juga dalam memilih produk dan merancang hunian. Berikut beberapa hal penting yang bisa diterapkan untuk mendukung gaya hidup berkelanjutan:"
+        ]
+      },
+      {
+        "section_title": "Material Alami dan Tahan Lama",
+        "paragraphs": [
+          "Pemilihan bahan seperti kayu solid menjadi pilihan utama. Selain kuat dan awet, kayu alami memiliki keunggulan karena minim proses kimia dalam produksinya. Material ini memberikan kesan hangat, elegan, sekaligus mendukung kelestarian lingkungan."
+        ]
+      },
+      {
+        "section_title": "Produk dengan Daur Hidup Panjang",
+        "paragraphs": [
+          "Mengutamakan barang-barang yang tahan lama menjadi salah satu cara mengurangi limbah. Furnitur atau dekorasi yang tidak mudah rusak dan memiliki nilai estetika tinggi akan lebih hemat, mengurangi kebutuhan konsumsi berulang."
+        ]
+      },
+      {
+        "section_title": "Proses Produksi Minim Limbah",
+        "paragraphs": [
+          "Selain bahan yang digunakan, penting juga memperhatikan proses produksi. Produk ramah lingkungan dihasilkan dengan seminimal mungkin menyisakan limbah serta mengurangi penggunaan bahan berbahaya, mendukung ekosistem tetap terjaga."
+        ]
+      },
+      {
+        "section_title": "Penggunaan Kembali dan Daur Ulang",
+        "paragraphs": [
+          "Konsep zero waste dapat diterapkan di rumah melalui upaya memaksimalkan barang-barang bekas agar tetap bermanfaat. Furnitur atau dekorasi lama dapat dimodifikasi tanpa perlu membeli baru, mengurangi konsumsi berlebih."
+        ]
+      },
+      {
+        "section_title": "Kemasan Produk yang Ramah Lingkungan",
+        "paragraphs": ["Selain isi produk, kemasan juga diperhatikan. Mengurangi penggunaan plastik sekali pakai atau memilih kemasan dari bahan daur ulang merupakan bagian kecil yang memberi dampak besar bagi lingkungan."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Memilih hunian dan produk ramah lingkungan bukan sekadar mengikuti tren, tetapi merupakan investasi jangka panjang bagi kesehatan keluarga dan planet. Dengan setiap keputusan pembelian, kita memiliki kesempatan untuk mendukung praktik bisnis yang berkelanjutan. Ingatlah bahwa keindahan sejati sebuah produk tidak hanya terletak pada tampilannya, tetapi juga pada nilai keberlanjutan yang dimilikinya sepanjang daur hidupnya. Mari bersama menciptakan ruang hidup yang tidak hanya nyaman, tetapi juga bertanggung jawab terhadap lingkungan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Rumah Hemat Energi dan Ramah Lingkungan: Kriteria, Manfaat, dan Tips Praktis",
+    "description": "Konsep rumah ramah lingkungan menawarkan solusi berkelanjutan dengan memanfaatkan sumber daya efisien, energi terbarukan, dan menciptakan ruang hidup yang sehat bagi penghuni maupun lingkungan sekitar.",
+    "category": "Artikel",
+    "image": "image/artikel-17.png",
+    "author": "Muhammad Ilham Haekal",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=13",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Di tengah maraknya isu perubahan iklim, kesadaran untuk membangun rumah yang ramah lingkungan semakin tinggi. Konsep rumah seperti ini bukan sekadar tren, melainkan bagian dari solusi untuk menjaga kelestarian bumi. Tapi sebenarnya, apa sih rumah ramah lingkungan itu? Apa saja kriteria dan manfaatnya? Yuk, kita kupas tuntas di sini."
+        ]
+      },
+      {
+        "section_title": "Apa Itu Rumah Ramah Lingkungan?",
+        "paragraphs": [
+          "Rumah ramah lingkungan, sering juga disebut sebagai eco-house, adalah hunian yang didesain dengan tujuan meminimalisir dampak negatif terhadap lingkungan. Caranya adalah dengan memanfaatkan sumber daya secara efisien, menggunakan energi terbarukan, serta menciptakan ruang hidup yang sehat bagi penghuninya maupun lingkungan sekitarnya.",
+          "Prinsip utama rumah ini meliputi: 1. Efisiensi Energi: Mengoptimalkan penggunaan energi, seperti memanfaatkan cahaya matahari untuk pencahayaan alami dan memakai panel surya. 2. Sumber Daya Terbarukan: Menggunakan bahan bangunan yang ramah lingkungan, misalnya bambu, kayu lokal, atau batu bata daur ulang. 3. Ruang Terbuka Hijau: Menyediakan taman, halaman, atau area hijau yang bisa menyerap karbon dioksida dan menyejukkan lingkungan."
+        ]
+      },
+      {
+        "section_title": "Kenapa Rumah Ramah Lingkungan Penting?",
+        "paragraphs": [
+          "Bukan tanpa alasan konsep rumah ini semakin populer. Ada beberapa manfaat besar yang bisa dirasakan:",
+          "1. Mengurangi Dampak Pemanasan Global: Rumah biasa cenderung menggunakan energi berbasis fosil, seperti listrik dari pembangkit tenaga batu bara. Ini menghasilkan emisi karbon yang tinggi, mempercepat perubahan iklim. Rumah ramah lingkungan, dengan teknologi seperti panel surya dan ventilasi alami, membantu menurunkan jejak karbon.",
+          "2. Efisiensi Biaya Hidup: Meskipun biaya awal membangun rumah jenis ini bisa sedikit lebih tinggi, dalam jangka panjang Anda akan lebih hemat. Penggunaan lampu LED, pencahayaan alami, serta peralatan hemat energi membuat tagihan listrik jauh lebih rendah.",
+          "3. Meningkatkan Kualitas Hidup: Udara dalam rumah lebih bersih, suhu ruangan lebih nyaman tanpa perlu bergantung pada AC, dan lingkungan sekitar jadi lebih sejuk berkat ruang hijau. Semua ini berdampak positif pada kesehatan fisik dan mental penghuninya.",
+          "4. Kontribusi pada Ekosistem Lokal: Penggunaan material lokal dan keberadaan taman kecil di rumah turut mendukung flora dan fauna setempat. Tanaman di halaman rumah bisa jadi habitat burung atau serangga yang penting bagi keseimbangan ekosistem."
+        ]
+      },
+      {
+        "section_title": "Kriteria Utama Rumah Ramah Lingkungan",
+        "paragraphs": [
+          "Berikut adalah poin-poin penting yang perlu Anda perhatikan jika ingin memiliki rumah ramah lingkungan:",
+          "1. Hemat Energi: • Panel Surya: Memanfaatkan tenaga matahari untuk kebutuhan listrik harian. • Pencahayaan Alami: Desain jendela besar untuk memaksimalkan masuknya cahaya. • Lampu LED: Menggunakan lampu hemat energi yang tahan lama. Manfaat: Mengurangi biaya listrik, membuat rumah terang tanpa banyak lampu, serta mengurangi ketergantungan pada energi fosil.",
+          "2. Sirkulasi Udara Optimal: • Ventilasi Silang: Penempatan jendela dan ventilasi di posisi strategis agar angin bisa masuk dan keluar dengan baik. • Minimalkan Penggunaan AC: Rumah tetap sejuk berkat sirkulasi alami. Manfaat: Udara dalam rumah selalu segar, mengurangi kelembapan, mencegah pertumbuhan jamur, serta meningkatkan kesehatan pernapasan.",
+          "3. Ruang Hijau Terbuka: • Taman Kecil: Bisa berupa halaman depan atau belakang dengan berbagai tanaman. • Vertical Garden atau Tanaman Hias: Alternatif bagi yang memiliki lahan terbatas. Manfaat: Membantu menyerap karbon dioksida, menambah keasrian rumah, serta menenangkan pikiran.",
+          "4. Pengelolaan Sampah & Drainase: • Pemisahan Sampah: Memiliki tempat khusus untuk sampah organik dan anorganik. • Drainase Baik: Memastikan air hujan bisa meresap dengan baik ke tanah, mencegah banjir atau genangan. Manfaat: Lingkungan rumah jadi lebih bersih dan sehat, mengurangi risiko penyakit akibat sampah.",
+          "5. Penggunaan Material Lokal & Ramah Lingkungan: • Material Daur Ulang: Seperti batu bata dari bahan bekas atau kayu daur ulang. • Bahan Alami: Bambu, kayu lokal, dan batu alam. Manfaat: Mengurangi polusi akibat proses produksi material baru, mendukung perekonomian lokal, serta rumah terlihat unik dan estetik.",
+          "6. Pola Hidup Eco-Living: • Kurangi Kendaraan Bermotor: Gunakan sepeda atau jalan kaki untuk aktivitas jarak dekat. • Tanam Tanaman Sendiri: Misalnya sayuran atau rempah di halaman rumah. • Hemat Listrik & Air: Biasakan matikan lampu dan kran saat tidak digunakan. Manfaat: Tidak hanya hemat, tapi juga membantu mengurangi beban lingkungan secara langsung."
+        ]
+      },
+      {
+        "section_title": "Tips Membangun Rumah Ramah Lingkungan",
+        "paragraphs": [
+          "1. Rencanakan Desain dari Awal: Libatkan arsitek yang paham konsep green building agar semua aspek rumah sudah mengadopsi prinsip ramah lingkungan sejak awal pembangunan.",
+          "2. Pilih Peralatan Hemat Energi: Gunakan peralatan rumah tangga berlabel hemat energi, seperti AC inverter, mesin cuci low watt, dan sebagainya.",
+          "3. Tanam Pohon atau Tanaman Peneduh: Selain membuat lingkungan lebih adem, pohon juga membantu menyerap polusi dan menghasilkan oksigen.",
+          "4. Gunakan Cat Bebas VOC (Volatile Organic Compounds): Cat jenis ini lebih aman bagi kesehatan karena tidak mengandung bahan kimia berbahaya yang bisa mencemari udara di dalam rumah.",
+          "5. Manfaatkan Air Hujan: Pasang penampung air hujan untuk digunakan menyiram tanaman atau membersihkan halaman."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Membangun rumah ramah lingkungan adalah investasi jangka panjang yang memberikan manfaat tidak hanya bagi penghuninya, tetapi juga bagi lingkungan sekitar dan generasi mendatang. Dengan menerapkan prinsip-prinsip eco-house, kita turut berkontribusi dalam menjaga kelestarian bumi dan menciptakan ruang hidup yang lebih sehat dan berkelanjutan. Langkah kecil dari rumah kita bisa menjadi bagian dari perubahan besar untuk planet yang lebih baik."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Rumah Eco-Friendly: Panduan Lengkap Konsep, Langkah, dan Tips Membangun Hunian Berkelanjutan",
+    "description": "Konsep Eco House menawarkan keseimbangan antara kebutuhan manusia dan kelestarian alam melalui rumah berkelanjutan yang nyaman ditinggali dan ramah lingkungan.",
+    "category": "Artikel",
+    "image": "image/artikel-18.png",
+    "author": "Muhammad Ilham Haekal",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=14",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Keseimbangan antara kebutuhan manusia dan kelestarian alam kini menjadi perhatian utama. Salah satu implementasinya adalah melalui konsep Eco House, atau rumah berkelanjutan yang tidak hanya nyaman ditinggali, tetapi juga ramah lingkungan. Lalu, bagaimana langkah membangun rumah seperti ini? Yuk kita bahas tuntas!"
+        ]
+      },
+      {
+        "section_title": "Apa Itu Konsep Eco House?",
+        "paragraphs": [
+          "Eco House adalah rumah yang dirancang untuk mengurangi dampak negatif terhadap lingkungan. Konsep ini mengedepankan penggunaan material alami, efisiensi energi, pengelolaan limbah yang baik, serta ruang hijau yang cukup. Tujuannya tidak hanya untuk menciptakan hunian nyaman, tetapi juga menjaga keseimbangan ekosistem.",
+          "Berbeda dari rumah konvensional yang cenderung boros energi dan menghasilkan lebih banyak polusi, eco house berfokus pada keberlanjutan dan efisiensi."
+        ]
+      },
+      {
+        "section_title": "Mengapa Harus Menerapkan Eco House?",
+        "paragraphs": [
+          "Berikut manfaat utama dari konsep ini:",
+          "1. Ramah Lingkungan: Material yang digunakan berasal dari sumber daya terbarukan dan minim proses kimia. Selain itu, sistem pengelolaan air dan limbahnya dirancang agar tidak mencemari lingkungan.",
+          "2. Efisiensi Energi: Dengan memanfaatkan pencahayaan alami, ventilasi silang, serta teknologi hemat energi, kebutuhan listrik berkurang drastis.",
+          "3. Sehat untuk Penghuni: Material bebas racun, sirkulasi udara yang baik, dan ruang hijau menciptakan udara bersih dan suasana nyaman di dalam rumah.",
+          "4. Investasi Jangka Panjang: Meski biaya awal bisa sedikit lebih tinggi, dalam jangka panjang rumah ini lebih hemat karena rendahnya biaya listrik, air, dan perawatan."
+        ]
+      },
+      {
+        "section_title": "Langkah-Langkah Membangun Eco House",
+        "paragraphs": [
+          "1. Memilih Material Ramah Lingkungan: Gunakan material yang alami dan mudah terurai, seperti: Kayu Lokal, Bambu, Batu Alam, Bata Daur Ulang. Hindari bahan sintetis atau berbahan dasar kimia berbahaya.",
+          "2. Desain Mengutamakan Efisiensi Energi: Rancang rumah agar memaksimalkan: Pencahayaan Alami dengan banyak bukaan seperti jendela dan skylight; Ventilasi Silang yang membantu aliran udara alami agar rumah tetap sejuk tanpa bergantung pada AC.",
+          "3. Memasukkan Area Hijau: Sediakan taman atau kebun kecil di halaman. Tanaman bermanfaat untuk: Menyerap polusi, Menurunkan suhu sekitar, Memproduksi oksigen. Jika lahan terbatas, bisa menerapkan vertical garden atau pot tanaman hias di dalam rumah.",
+          "4. Mengelola Air & Limbah Secara Efektif: Drainase Baik dengan memastikan air hujan terserap tanah atau dialirkan ke penampungan; Pengelolaan Limbah dengan memisahkan sampah organik dan anorganik, gunakan komposter untuk sisa makanan.",
+          "5. Mengadopsi Teknologi Pintar: Teknologi berikut membantu efisiensi: Smart Lighting (lampu otomatis yang menyala saat dibutuhkan), Solar Panel (sumber energi dari tenaga matahari), Peralatan Hemat Energi seperti AC inverter, kulkas low watt, lampu LED."
+        ]
+      },
+      {
+        "section_title": "Tips Praktis Menerapkan Eco House di Hunian Anda",
+        "paragraphs": [
+          "1. Manfaatkan Desain Rumah Tradisional: Rumah tradisional Indonesia seperti rumah Joglo atau Limasan sudah sejak dulu mengusung konsep ramah lingkungan: Atap tinggi dengan ventilasi silang alami, Material kayu dan batu lokal, Teras luas dan ruang terbuka yang memudahkan sirkulasi udara.",
+          "2. Minimalkan Sekat Ruangan: Semakin banyak sekat, semakin banyak juga kebutuhan akan penerangan dan pendinginan. Desain open space membuat rumah terasa lega dan memudahkan aliran udara.",
+          "3. Kurangi Penggunaan Plastik: Gunakan perabot rumah dari bahan alami seperti kayu, rotan, atau bambu. Selain lebih ramah lingkungan, tampilannya juga estetik dan hangat.",
+          "4. Sistem Penampungan Air Hujan: Pasang drum penampung air hujan untuk digunakan kembali, misalnya untuk menyiram tanaman atau membersihkan halaman.",
+          "5. Biasakan Gaya Hidup Ramah Lingkungan: Kunci keberhasilan eco house terletak pada pola hidup penghuninya. Mulailah dengan: Mematikan listrik saat tidak digunakan, Mengurangi konsumsi air, Menanam tanaman sendiri, Mengolah sampah rumah tangga secara bijak."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Membangun eco house tidak melulu soal teknologi canggih atau biaya tinggi. Kunci utamanya adalah kesadaran akan pentingnya menjaga keseimbangan alam dalam setiap aspek rumah—mulai dari desain, material, hingga kebiasaan penghuni.",
+          "Dengan langkah-langkah sederhana seperti memaksimalkan pencahayaan alami, memilih material lokal, dan menciptakan ruang hijau, Anda sudah berkontribusi besar dalam menjaga bumi tetap lestari, sekaligus menciptakan rumah sehat dan hemat energi."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Panduan Lengkap Membangun Hunian Ramah Lingkungan",
+    "description": "Panduan lengkap tentang konsep, manfaat, kriteria, dan tips praktis untuk membangun hunian yang ramah lingkungan sebagai bagian dari upaya menjaga kelestarian bumi.",
+    "category": "Artikel",
+    "image": "image/artikel-19.png",
+    "author": "Muhammad Ilham Haekal",
+    "published_date": "2025-03-21",
+    "link": "detail.html?id=15",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Seiring meningkatnya kesadaran akan pentingnya menjaga bumi, konsep rumah ramah lingkungan menjadi pilihan banyak orang. Hunian ini bukan sekadar tempat tinggal, melainkan bagian dari solusi mengurangi kerusakan lingkungan. Yuk, kita bahas bagaimana cara mewujudkannya!"
+        ]
+      },
+      {
+        "section_title": "Apa Itu Rumah Ramah Lingkungan?",
+        "paragraphs": [
+          "Rumah ramah lingkungan adalah rumah yang dirancang untuk mengurangi dampak negatif terhadap alam. Ciri utamanya meliputi efisiensi energi, pengelolaan air, material berkelanjutan, hingga sistem pengolahan limbah yang baik. Tujuannya sederhana: nyaman dihuni sekaligus selaras dengan alam."
+        ]
+      },
+      {
+        "section_title": "Manfaat Hunian Ramah Lingkungan",
+        "paragraphs": [
+          "1. Hemat Energi & Biaya: Desain memaksimalkan pencahayaan alami, ventilasi baik, serta penggunaan teknologi hemat energi, sehingga tagihan listrik dan air bisa ditekan.",
+          "2. Sehat untuk Penghuni: Ventilasi alami, bahan bangunan bebas toksin, dan adanya ruang hijau membuat udara bersih dan suasana segar.",
+          "3. Mengurangi Polusi: Dengan pengelolaan limbah rumah tangga yang baik dan penggunaan material lokal, polusi bisa diminimalkan."
+        ]
+      },
+      {
+        "section_title": "Kriteria Rumah Ramah Lingkungan",
+        "paragraphs": [
+          "1. Pencahayaan & Ventilasi Alami: Gunakan jendela besar, skylight, dan ventilasi silang untuk memanfaatkan cahaya matahari dan sirkulasi udara.",
+          "2. Material Ramah Lingkungan: Pilih bahan lokal seperti bambu, kayu daur ulang, batu alam, serta cat bebas VOC.",
+          "3. Area Hijau: Tanam pohon, taman, atau buat vertical garden untuk meningkatkan kualitas udara dan menyejukkan lingkungan rumah.",
+          "4. Sistem Pengolahan Air: Pasang penampung air hujan serta sanitasi air yang ramah lingkungan.",
+          "5. Panel Surya: Memanfaatkan energi matahari melalui solar panel sebagai sumber listrik alternatif.",
+          "6. Pengelolaan Sampah: Pisahkan sampah organik dan anorganik, serta terapkan komposting untuk limbah dapur."
+        ]
+      },
+      {
+        "section_title": "Tips Praktis Menerapkan Rumah Ramah Lingkungan",
+        "paragraphs": [
+          "1. Rencanakan Sejak Awal: Konsultasikan dengan arsitek yang paham konsep green building.",
+          "2. Kurangi Sekat Ruangan: Membantu pencahayaan dan ventilasi alami lebih maksimal.",
+          "3. Gunakan Peralatan Hemat Energi: Lampu LED, AC inverter, hingga alat rumah tangga low watt.",
+          "4. Biasakan Gaya Hidup Hijau: Mulai dari mengurangi plastik hingga menghemat air dan listrik."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Mewujudkan rumah ramah lingkungan bukan sekadar tren, melainkan langkah bijak menjaga bumi tanpa mengorbankan kenyamanan. Dengan langkah sederhana—memaksimalkan pencahayaan alami, memilih material lokal, mengelola limbah, serta menciptakan ruang hijau—Anda sudah ikut berkontribusi menyelamatkan lingkungan."
+        ]
+      }
+    ]
+  }
+]
