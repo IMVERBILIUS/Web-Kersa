@@ -1,74 +1,73 @@
 <!DOCTYPE html>
 <html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Detail Artikel</title>
-    <link rel="stylesheet" href="style_detail.css">
-</head>
-<body>
-
+    <link rel="stylesheet" href="style_detail.css" />
+  </head>
+  <body>
     <!-- Navbar -->
-<header class="navbar">
-    <div>
+    <header class="navbar">
+      <div>
         <div class="brand">KERSA</div>
         <div class="subtitle">By Ankara Cipta</div>
-    </div>
-    
-</header>
+      </div>
+    </header>
 
     <div class="container">
-        <main id="article-detail">
-            <!-- Detail artikel akan dimuat melalui JavaScript -->
-        </main>
+      <main id="article-detail">
+        <!-- Detail artikel akan dimuat melalui JavaScript -->
+      </main>
     </div>
 
     <footer>
-        <div class="footer-container">
-            <div class="footer-section">
-          
-                <p>© 2025 Kersa by Ankara Cipta</p>
-            </div>
-            <div class="footer-section">
-                <h3>Menu</h3>
-                <ul>
-                    <li><a href="#">Beranda</a></li>
-                    <li><a href="#">Tentang Kami</a></li>
-                    <li><a href="#">Artikel</a></li>
-                    <li><a href="contact.html">Kontak</a></li>
-                </ul>
-            </div>
-            <div class="footer-section">
-                <h3>Kontak Kami</h3>
-                <p>Email: <a href="mailto:kersa.id@gmail.com">kersa.id@gmail.com</a></p>
-                <p>Telepon: <a href="tel:+620812345678">+62 822-2095-5595
-                </a></p>
-                <div class="social-links">
-                    <a href="#">Facebook</a> |
-                    <a href="#">Instagram</a> |
-                    <a href="#">Twitter</a>
-                </div>
-            </div>
+      <div class="footer-container">
+        <div class="footer-section">
+          <p>© 2025 Kersa by Ankara Cipta</p>
         </div>
+        <div class="footer-section">
+          <h3>Menu</h3>
+          <ul>
+            <li><a href="index.html">Beranda</a></li>
+            <li><a href="#">Tentang Kami</a></li>
+            <li><a href="#">Artikel</a></li>
+            <li><a href="contact.html">Kontak</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Kontak Kami</h3>
+          <p>Email: <a href="mailto:kersa.id@gmail.com">kersa.id@gmail.com</a></p>
+          <p>Telepon: <a href="tel:+620812345678">+62 822-2095-5595 </a></p>
+          <div class="social-links">
+            <a href="#">Facebook</a> | <a href="#">Instagram</a> |
+            <a href="#">Twitter</a>
+          </div>
+        </div>
+      </div>
     </footer>
-    
+
     <script>
-        // Ambil data dari file JSON
-        fetch('articles.json')
-            .then(response => response.json())
-            .then(articles => {
-                const params = new URLSearchParams(window.location.search);
-                const articleId = parseInt(params.get('id'));
+      // Ambil data dari file JSON
+      fetch("articles.json")
+        .then((response) => response.json())
+        .then((articles) => {
+          const params = new URLSearchParams(window.location.search);
+          const articleId = parseInt(params.get("id"));
 
-                const selectedArticle = articles.find(article => article.id === articleId);
+          const selectedArticle = articles.find((article) => article.id === articleId);
 
-                if (selectedArticle) {
-                    const contentHTML = selectedArticle.content.map(section => `
+          if (selectedArticle) {
+            const contentHTML = selectedArticle.content
+              .map(
+                (section) => `
                         <h2>${section.section_title}</h2>
-                        ${section.paragraphs.map(paragraph => `<p>${paragraph}</p>`).join('')}
-                    `).join('');
+                        ${section.paragraphs.map((paragraph) => `<p>${paragraph}</p>`).join("")}
+                    `
+              )
+              .join("");
 
-                    document.getElementById("article-detail").innerHTML = `
+            document.getElementById("article-detail").innerHTML = `
                         <div class="article-detail-container">
                             <img src="${selectedArticle.image}" alt="${selectedArticle.title}" class="article-image">
                             <div class="article-text">
@@ -78,26 +77,25 @@
                                 <div class="article-content">
                                     ${contentHTML}
                                 </div>
-                                <p>Editor:${selectedArticle.author}</p>
-                                <a href="index.html" class="btn-back">Kembali ke Beranda</a>
+                                <p class="article-author">Editor:${selectedArticle.author}</p>
+                                <a href="article.html" class="btn-back">Kembali</a>
                             </div>
                         </div>
                     `;
-                } else {
-                    document.getElementById("article-detail").innerHTML = `
+          } else {
+            document.getElementById("article-detail").innerHTML = `
                         <h1>Artikel tidak ditemukan.</h1>
                         <a href="index.html" class="btn-back">Kembali ke Beranda</a>
                     `;
-                }
-            })
-            .catch(error => {
-                console.error("Gagal memuat data artikel:", error);
-                document.getElementById("article-detail").innerHTML = `
+          }
+        })
+        .catch((error) => {
+          console.error("Gagal memuat data artikel:", error);
+          document.getElementById("article-detail").innerHTML = `
                     <h1>Terjadi kesalahan saat memuat data.</h1>
                     <a href="index.html" class="btn-back">Kembali ke Beranda</a>
                 `;
-            });
+        });
     </script>
-
-</body>
+  </body>
 </html>

@@ -5,7 +5,7 @@ html, body {
 }
 
 body {
-  background-color: #808080;
+  background-color: rgb(246, 246, 246);
   color: #000;
   font-family: 'Arial', sans-serif;
   display: flex;
@@ -188,12 +188,12 @@ footer {
 
 .navbar .brand {
   font-size: 28px;
-  color: #fff;
+  color: black;
   font-weight: bold;
 }
 
 .navbar .subtitle {
-  color: #fff;
+  color: black;
   font-size: 14px;
 }
 

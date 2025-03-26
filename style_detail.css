@@ -6,7 +6,7 @@ body {
 }
 
 body {
-  background-color: #808080; /* Gray background color */
+  background-color: white; /* Gray background color */
   color: #000; /* Main text color */
   font-family: "Arial", sans-serif;
   display: flex; /* Use flexbox layout */
@@ -33,12 +33,12 @@ header {
 
 .navbar .brand {
   font-size: 28px;
-  color: #fff; /* Warna teks putih */
+  color: black; /* Warna teks putih */
   font-weight: bold;
 }
 
 .navbar .subtitle {
-  color: #fff;
+  color: black;
   font-size: 14px;
 }
 
@@ -94,21 +94,21 @@ header {
   text-align: justify;
 }
 
+.article-author ,.article-category {
+  color: rgb(239, 132, 0);
+}
+
 .btn-back {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 20px;
-  background-color: #ffffff;
-  color: #000;
+  background-color: black;
+  color: white;
   text-decoration: none;
   font-weight: bold;
   border-radius: 8px;
   transition: background-color 0.3s ease;
-  border: 1px solid #ddd;
-}
-
-.btn-back:hover {
-  background-color: #f0f0f0;
+  border: 1px solid black;
 }
 
 footer {
