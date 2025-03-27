@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   padding: 0;
@@ -7,7 +8,7 @@ html, body {
 body {
   background-color: rgb(246, 246, 246);
   color: #000;
-  font-family: 'Arial', sans-serif;
+  font-family: "Arial", sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -15,10 +16,10 @@ body {
 }
 
 .container {
-  width: 90%;        /* Menjadikan lebar responsif sesuai layar */
-  max-width: 1200px;  /* Batas maksimum agar tidak terlalu besar */
-  min-width: 320px;  /* Batas minimum agar tidak terlalu kecil */
-  margin: 5% auto 4%; 
+  width: 90%; /* Menjadikan lebar responsif sesuai layar */
+  max-width: 1200px; /* Batas maksimum agar tidak terlalu besar */
+  min-width: 320px; /* Batas minimum agar tidak terlalu kecil */
+  margin: 5% auto 4%;
   padding: 20px;
   background-color: #fff;
   border-radius: 12px;
@@ -38,6 +39,7 @@ h1 {
 
 .article-card {
   position: relative;
+  text-align: center;
   border-radius: 10px;
   overflow: hidden;
   cursor: pointer;
@@ -112,13 +114,13 @@ h1 {
 
 @media (max-width: 992px) {
   .article-list {
-      grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media (max-width: 600px) {
   .article-list {
-      grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
   }
 }
 
@@ -176,7 +178,6 @@ footer {
   margin: 0 5px;
 }
 
-
 .navbar {
   position: relative; /* Mengubah dari absolute ke relative untuk menghindari tumpang tindih */
   padding: 20px 40px; /* Ditambahkan ruang lebih besar untuk estetika yang lebih baik */
@@ -206,7 +207,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center; /* Pusatkan konten */
-  gap: 15px;               /* Jarak antara teks dan dropdown */
+  gap: 15px; /* Jarak antara teks dan dropdown */
   background-color: #f8f9fa;
   padding: 15px 20px;
   border-radius: 10px;
@@ -239,46 +240,46 @@ footer {
   border-color: #333;
 }
 @media (max-width: 992px) {
-    .article-list {
-        grid-template-columns: repeat(2, 1fr);
-    }
+  .article-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
 
-    .footer-container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-        gap: 15px;
-    }
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+  }
 
-    .footer-section {
-        width: 100%;
-    }
+  .footer-section {
+    width: 100%;
+  }
 }
 
 @media (max-width: 600px) {
-    .article-list {
-        grid-template-columns: 1fr;
-    }
+  .article-list {
+    grid-template-columns: 1fr;
+  }
 
-    .filter-section {
-        flex-direction: column;
-        gap: 10px;
-    }
+  .filter-section {
+    flex-direction: column;
+    gap: 10px;
+  }
 
-    .btn-back {
-        width: 100%;
-        max-width: 300px; /* Batas agar tidak terlalu lebar */
-        margin: 0 auto;  /* Pusatkan tombol */
-    }
+  .btn-back {
+    width: 100%;
+    max-width: 300px; /* Batas agar tidak terlalu lebar */
+    margin: 0 auto; /* Pusatkan tombol */
+  }
 
-    .footer-container {
-        text-align: center;
-        width: 100%;
-    }
+  .footer-container {
+    text-align: center;
+    width: 100%;
+  }
 
-    .footer-section {
-        width: 100%;
-        margin-bottom: 10px;
-    }
+  .footer-section {
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
