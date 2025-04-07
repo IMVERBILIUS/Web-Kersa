@@ -1,0 +1,52 @@
+"""
+
+
+"""
+Ubah kalimat itu ke format json tanpa diubah/dikurangi
+
+ini json nya
+
+"""
+"content": [
+          {
+            "section_title": "Eco-Design atau Desain Berkelanjutan",
+            "paragraphs": [
+              "Eco-design merupakan pendekatan yang memadukan kebutuhan manusia dengan kepedulian terhadap lingkungan. Dalam artikel ini, eco-design digambarkan sebagai proses perancangan produk, bangunan, atau sistem yang memperhatikan dampak lingkungan secara menyeluruh sepanjang siklus hidupnya, mulai dari pemilihan bahan, proses produksi, penggunaan, hingga pembuangan akhir."
+            ]
+          },
+          {
+            "section_title": "Prinsip-Prinsip Eco-Design",
+            "paragraphs": [
+              "Penggunaan Material Ramah Lingkungan: Material yang digunakan harus memiliki dampak rendah terhadap lingkungan, baik saat proses ekstraksi, manufaktur, penggunaan, maupun pembuangannya.",
+              "Efisiensi Energi: Desain diarahkan untuk meminimalkan konsumsi energi melalui pemilihan bahan isolasi baik, optimalisasi pencahayaan alami, serta penggunaan energi terbarukan.",
+              "Daya Tahan Produk: Eco-design mendorong pembuatan produk atau bangunan yang memiliki masa pakai panjang, mengurangi kebutuhan penggantian atau perbaikan yang berlebihan.",
+              "Pengurangan Limbah: Proses desain berfokus pada meminimalisir produksi limbah dengan menggunakan bahan daur ulang atau memungkinkan desain yang mudah dibongkar agar material bisa digunakan kembali."
+            ]
+          },
+          {
+            "section_title": "Penerapan Eco-Design pada Resort Pulau Padamarang",
+            "paragraphs": [
+              "Pulau Padamarang merupakan destinasi wisata potensial dengan keindahan alam pegunungan, laut, pantai, dan keanekaragaman hayati bawah laut.",
+              "Resort yang dirancang bertujuan untuk mewadahi aktivitas wisatawan dengan fasilitas lengkap serta menerapkan prinsip arsitektur eco-design agar bangunan dapat beradaptasi dengan kondisi lingkungan sekitar tanpa merusaknya."
+            ]
+          },
+          {
+            "section_title": "Konsep Desain",
+            "paragraphs": [
+              "Pengolahan Tapak: Resort memanfaatkan orientasi matahari untuk pencahayaan alami dan mengurangi pemanasan berlebih, dengan penggunaan vegetasi alami sebagai peneduh.",
+              "Material Bangunan: Bahan bangunan dipilih dari material lokal, ramah lingkungan, serta mudah didaur ulang. Struktur utama resort menggunakan kayu pada pondasi, rangka utama, dan atap.",
+              "Tampilan dan Bentuk Bangunan: Bentuk dasar resort mengambil inspirasi dari rumah adat Tolaki Mekongga Kolaka dengan warna-warna natural seperti cokelat dan lantai kayu parket.",
+              "Efisiensi Ruang Terbuka: Komposisi antara bangunan dan ruang terbuka dihitung dengan rasio KDB (Koefisien Dasar Bangunan) sebesar 17%, dan KOS (Koefisien Open Space) sebesar 83%."
+            ]
+          },
+          {
+            "section_title": "Manfaat Eco-Design",
+            "paragraphs": [
+              "Mengurangi Jejak Ekologis: Bangunan hemat energi dan material dapat mengurangi dampak lingkungan jangka panjang.",
+              "Menarik Wisatawan Berwawasan Lingkungan: Wisatawan kini semakin peduli pada keberlanjutan, sehingga resort berbasis eco-design menjadi daya tarik tersendiri.",
+              "Penghematan Biaya Operasional: Efisiensi energi dan material berdampak langsung pada penghematan biaya pemeliharaan.",
+              "Mendukung Konservasi Alam: Sebagai bagian dari taman laut, resort ini membantu menjaga ekosistem tanpa merusak keberadaan flora dan fauna setempat."
+            ]
+          }
+        ]
+"""
