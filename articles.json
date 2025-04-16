@@ -4847,7 +4847,8 @@
         "paragraphs": ["Dengan langkah konkret dari berbagai pihak, diharapkan rumah ramah lingkungan bisa lebih mudah dijangkau oleh masyarakat kelas menengah dan menjadi standar hunian masa depan."]
       }
     ]
-  },{
+  },
+  {
     "id": 80,
     "title": "Bukan Sekadar Nyaman, Hunian Masa Depan ini Punya Fasilitas Super Canggih",
     "description": "Analisis tentang tren hunian masa depan yang mengedepankan kesehatan, aksesibilitas, dan teknologi untuk kenyamanan maksimal",
@@ -4900,7 +4901,8 @@
         "paragraphs": ["Hunian masa depan bukan hanya sekadar tempat tinggal, tetapi ruang hidup yang sehat, nyaman, dan berkelanjutan. Dengan inovasi teknologi dan desain, rumah impian kini semakin dekat dengan kenyataan!"]
       }
     ]
-  },{
+  },
+  {
     "id": 82,
     "title": "Milenial Wajib Tahu, Rumah Idaman Hemat Energi dan Penuh Teknologi",
     "description": "Karakteristik hunian ideal yang menjadi incaran kaum milenial di tahun 2025",
@@ -4947,5 +4949,151 @@
         ]
       }
     ]
+  },
+  {
+    "id": 83,
+    "title": "Plastik Bekas Bukan Sampah, Ini Cara Cerdas Buat Rumah Lebih Bersih & Rapi",
+    "description": "Cara kreatif memanfaatkan kembali kantong plastik untuk kebersihan dan kerapihan rumah",
+    "category": "Artikel",
+    "image": "image/artikel-85.webp",
+    "author": "Muhammad Ilham ",
+    "published_date": "2025-04-16",
+    "link": "detail.html?id=83",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Kantong plastik sering dianggap sebagai limbah yang sulit terurai tetapi sebenarnya bisa dimanfaatkan kembali untuk berbagai keperluan rumah tangga. Dengan sedikit kreativitas, penggunaan ulang kantong plastik dapat membantu mengurangi sampah sekaligus membuat rumah lebih bersih dan rapi."
+        ]
+      },
+      {
+        "section_title": "1. Kantong Plastik sebagai Tempat Sampah Mini",
+        "paragraphs": [
+          "Daripada langsung membuang kantong plastik, gunakan sebagai tempat sampah kecil di berbagai sudut rumah seperti dapur, kamar mandi, atau ruang kerja. Ini akan mempermudah pembuangan sampah harian tanpa perlu mengganti plastik terlalu sering."
+        ]
+      },
+      {
+        "section_title": "2. Pelindung Barang saat Menyimpan atau Pindahan",
+        "paragraphs": [
+          "Kantong plastik bisa digunakan untuk membungkus barang-barang yang jarang digunakan seperti sepatu, tas, atau peralatan dapur agar tidak berdebu. Selain itu, saat pindahan rumah, plastik bisa menjadi pelindung barang agar tidak rusak terkena air atau goresan."
+        ]
+      },
+      {
+        "section_title": "3. Kantong Plastik sebagai Sarung Tangan Darurat",
+        "paragraphs": [
+          "Ketika membersihkan sesuatu yang kotor atau bau, seperti tempat sampah atau sisa makanan, kantong plastik bisa digunakan sebagai sarung tangan darurat. Ini membuat tangan tetap bersih tanpa perlu membeli sarung tangan khusus."
+        ]
+      },
+      {
+        "section_title": "4. Membantu dalam Berkebun",
+        "paragraphs": [
+          "Bagi yang suka berkebun, kantong plastik bisa digunakan untuk menutupi tanaman kecil agar terlindung dari hujan lebat atau serangga. Selain itu, plastik juga bisa dimanfaatkan sebagai wadah kompos sederhana untuk mendaur ulang sisa makanan menjadi pupuk organik."
+        ]
+      },
+      {
+        "section_title": "5. Solusi untuk Menjaga Kelembaban Barang",
+        "paragraphs": ["Barang-barang seperti kain lap, tisu, atau bumbu dapur sering kali perlu dijaga kelembapannya. Dengan menyimpannya dalam kantong plastik dan menutupnya rapat, barang tetap kering dan awet lebih lama."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Dengan sedikit kreativitas, kantong plastik bekas dapat diolah kembali untuk berbagai fungsi praktis di rumah. Selain mengurangi sampah, cara ini juga membantu menjaga kebersihan dan kerapihan rumah tanpa biaya tambahan."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Rahasia Rumah Hemat Energi ini Bisa Hemat Biaya Listrik",
+    "description": "Penerapan konsep rumah hemat energi untuk keberlanjutan lingkungan dan pengurangan biaya listrik",
+    "category": "Artikel",
+    "image": "image/artikel-86.webp",
+    "author": "Muhammad Ilham ",
+    "published_date": "2025-04-16",
+    "link": "detail.html?id=84",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Rumah hemat energi berperan penting dalam menjaga keseimbangan lingkungan dan mengurangi dampak perubahan iklim. Pakar energi Rana Yusuf Nasir menekankan bahwa penghematan energi bukan hanya teori, tetapi harus dipraktikkan dalam gaya hidup sehari-hari."
+        ]
+      },
+      {
+        "section_title": "Tantangan dan Fakta",
+        "paragraphs": [
+          "• Bangunan gedung menyumbang 40% konsumsi energi global dan emisi gas rumah kaca.",
+          "• Baru 44% gedung baru di Jakarta menerapkan konsep bangunan hijau, sementara gedung lama masih belum banyak beradaptasi.",
+          "• Jakarta membutuhkan tambahan 650 hektar lahan hijau untuk menekan polusi dan meningkatkan kualitas udara."
+        ]
+      },
+      {
+        "section_title": "1. Atap Hijau (Green Roof)",
+        "paragraphs": ["• Menyerap hujan dan mengurangi pemanasan global.", "• Menurunkan suhu udara hingga 50-90% di perkotaan. ", "• Mengurangi biaya energi hingga 50%."]
+      },
+      {
+        "section_title": "2. Gerakan 'Go Green'",
+        "paragraphs": ["• Penanaman pohon untuk menekan emisi gas rumah kaca.", "• Mengadopsi material ramah lingkungan untuk bangunan."]
+      },
+      {
+        "section_title": "3. Inovasi dan Insentif",
+        "paragraphs": ["• Program 'Portland Ecoroof' di AS memberikan insentif bagi bangunan berkonsep hijau.", "• Kompetisi Onduline Green Roof Award di Indonesia mendorong inovasi atap hijau."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": ["Dengan penerapan konsep hemat energi, hunian tidak hanya lebih nyaman tetapi juga membantu memperpanjang usia bumi dan menjaga lingkungan untuk generasi mendatang."]
+      }
+    ]
+  },{
+    "id": 85,
+    "title": "Inovasi Baru, Ubah Limbah Denim Jadi Peredam Estetik dan Peduli Lingkungan",
+    "description": "Inovasi material ramah lingkungan dari limbah denim bekas untuk peredam panas dan suara di berbagai bangunan",
+    "category": "Artikel",
+    "image": "image/artikel-87.webp",
+    "author": "Muhammad Ilham ",
+    "published_date": "2025-04-16",
+    "link": "detail.html?id=85",
+    "content": [
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Punya rumah kece bukan cuma soal tampilan luar aja, tapi juga soal material yang dipakai. Nah, buat kamu yang peduli sama lingkungan, ada kabar keren nih! EcoTouch—brand lokal yang berdiri sejak 2021 di bawah naungan PT Superbtex—punya terobosan gokil: mengubah limbah denim bekas jadi bahan peredam panas dan suara yang ramah lingkungan."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Awalnya, EcoTouch muncul karena keresahan para foundernya ngeliat limbah tekstil yang numpuk dan bikin lingkungan makin parah. Akhirnya mereka mutusin buat daur ulang limbah kain jadi produk baru yang berguna, salah satunya ya material peredam ini."
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": ["Yang keren lagi, EcoTouch juga menerima donasi pakaian bekas yang udah nggak layak pakai. Jadi, bukan cuma perusahaan yang bisa nyumbang ke lingkungan, tapi kamu juga bisa ikut berkontribusi!"]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Pas di pameran IFFINA ICE BSD, EcoTouch pamerin desain rumah mini yang terinspirasi dari rumah adat Papua, Honai. Tapi bedanya, dinding dan atapnya pakai limbah denim dan serat alami yang udah diolah jadi peredam. Super eco-friendly!"
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": ["Uniknya lagi, peredam ini nggak cuma buat di dalam dinding, tapi juga bisa dipasang di luar. Plus, anti gatal dan nggak bikin alergi—jadi aman banget buat semua kalangan."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": [
+          "Produksinya dibuat di Bandung, tersedia dalam dua bentuk: Lembaran panel dinding ukuran 60×120 cm, ketebalan 5–10 cm dan Roll gulungan buat plafon atap, ukuran 25×1 meter, ketebalan 5–10 mm. Cocok banget buat rumah, kantor, kafe, gudang, bahkan studio band!"
+        ]
+      },
+      {
+        "section_title": "",
+        "paragraphs": ["Permintaannya juga makin tinggi lho, terutama buat proyek canopy rumah dan apartemen. Dengan EcoTouch, kamu bisa ganti peredam konvensional yang bikin polusi dan mulai pakai material yang lebih ramah lingkungan."]
+      },
+      {
+        "section_title": "",
+        "paragraphs": ["Jadi, kalau kamu pengen punya hunian adem, tenang, dan tetep cinta bumi, EcoTouch bisa banget jadi solusi masa depan yang hijau dan stylish!"]
+      }
+    ]
   }
+
 ]
